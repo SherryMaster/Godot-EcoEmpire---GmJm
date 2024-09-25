@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 162.79 162.79"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil4 {fill:#8CA2A8}
+    .fil5 {fill:#A7C2C9}
+    .fil1 {fill:#D8EEFC}
+    .fil3 {fill:#00004D;fill-opacity:0.250980}
+    .fil2 {fill:white;fill-opacity:0.501961}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M76.31 115.07c-8.48,7.14 -18.35,6.34 -24.02,10.18l24.02 0 10.17 0 0 0 24.02 0c-5.67,-3.84 -15.54,-3.04 -24.02,-10.18l0 -50.87 -10.17 0 0 50.87z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="162.79" height="162.79"/>
+  <g id="_1641864593168">
+   <path class="fil1" d="M76.31 115.07c-8.48,7.14 -18.35,6.34 -24.02,10.18l24.02 0 10.17 0 0 0 24.02 0c-5.67,-3.84 -15.54,-3.04 -24.02,-10.18l0 -50.87 -10.17 0 0 50.87z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <g>
+      <path id="_1" class="fil2" d="M77.86 70.13l0 44.94c-3.61,2.62 -6.79,4.84 -12.61,6.37 -4.89,1.28 -8.05,1.51 -12.96,3.81l8.76 -67.41 16.59 -11.63 0.22 23.92z"/>
+      <path class="fil3" d="M84.93 70.13l0 44.94c3.61,2.62 6.78,4.84 12.61,6.37 4.89,1.28 8.05,1.51 12.96,3.81l-8.76 -67.41 -16.59 -11.63 -0.22 23.92z"/>
+     </g>
+    </g>
+   </g>
+   <path class="fil0" d="M76.31 115.07c-8.48,7.14 -18.35,6.34 -24.02,10.18l24.02 0 10.17 0 0 0 24.02 0c-5.67,-3.84 -15.54,-3.04 -24.02,-10.18l0 -50.87 -10.17 0 0 50.87z"/>
+   <g>
+    <circle class="fil4" cx="81.39" cy="54.03" r="16.48"/>
+    <circle class="fil5" cx="81.39" cy="54.03" r="14.9"/>
+   </g>
+  </g>
+ </g>
+</svg>

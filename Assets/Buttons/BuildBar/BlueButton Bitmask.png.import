@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://pcvp0kxdlsgc"
+path="res://.godot/imported/BlueButton Bitmask.png-95e6434821ab83ea38d6ff58a76338ec.res"
+
+[deps]
+
+source_file="res://Assets/Buttons/BuildBar/BlueButton Bitmask.png"
+dest_files=["res://.godot/imported/BlueButton Bitmask.png-95e6434821ab83ea38d6ff58a76338ec.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

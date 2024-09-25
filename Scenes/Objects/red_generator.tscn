@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bbly5k43q2i2l"]
+
+[ext_resource type="Script" path="res://Scenes/Objects/red_generator.gd" id="1_6qlr6"]
+[ext_resource type="Texture2D" uid="uid://r7bewytf0yyu" path="res://Assets/Items/GeneratorRed.svg" id="1_21mdo"]
+
+[node name="RedGenerator" type="Node2D" groups=["Generator"]]
+script = ExtResource("1_6qlr6")
+carbon_sec = 3.0
+energy_gen_sec = 15.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("1_21mdo")

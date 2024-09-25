@@ -1,0 +1,61 @@
+[gd_scene load_steps=7 format=3 uid="uid://dfbaebq8vi1tj"]
+
+[ext_resource type="Script" path="res://Scenes/Objects/wind_turbine.gd" id="1_fmy6t"]
+[ext_resource type="Texture2D" uid="uid://clm7nyck8jijf" path="res://Assets/Items/WindTurbine Stand.svg" id="3_3kgjn"]
+[ext_resource type="Texture2D" uid="uid://dh1eet2ul8hvx" path="res://Assets/Items/WindTurbine Fan.svg" id="4_m6iky"]
+
+[sub_resource type="Animation" id="Animation_d3kas"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Fan:rotation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="Animation_wtgkk"]
+resource_name = "default"
+loop_mode = 1
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Fan:rotation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [0.0, 2.0944]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_teq8l"]
+_data = {
+"RESET": SubResource("Animation_d3kas"),
+"default": SubResource("Animation_wtgkk")
+}
+
+[node name="WindTurbine" type="Node2D" groups=["Generator"]]
+script = ExtResource("1_fmy6t")
+energy_gen_sec = 5.0
+
+[node name="Base" type="Sprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("3_3kgjn")
+
+[node name="Fan" type="Sprite2D" parent="."]
+position = Vector2(0, -21)
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("4_m6iky")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_teq8l")
+}

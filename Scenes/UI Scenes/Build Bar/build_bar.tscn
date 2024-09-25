@@ -1,0 +1,181 @@
+[gd_scene load_steps=12 format=3 uid="uid://bhhu5nmpxjjat"]
+
+[ext_resource type="Texture2D" uid="uid://ccvpnekw22wah" path="res://Assets/BuildBar BG.svg" id="1_bt6lq"]
+[ext_resource type="Script" path="res://Scenes/UI Scenes/Build Bar/build_bar_setup.gd" id="1_mm7lc"]
+[ext_resource type="ButtonGroup" uid="uid://dpjrf3sks4w6u" path="res://Resources/build_bar_button_group.tres" id="2_fuimx"]
+[ext_resource type="Texture2D" uid="uid://cvh80h028vexg" path="res://Assets/Buttons/BuildBar/Blue - Normal.svg" id="2_vvbxa"]
+[ext_resource type="Texture2D" uid="uid://ljcxjrj6t3s6" path="res://Assets/Buttons/BuildBar/Blue - Pressed.svg" id="3_d7lt2"]
+[ext_resource type="Texture2D" uid="uid://7t6e1khb2esb" path="res://Assets/Buttons/BuildBar/Blue - Hover.svg" id="4_wmqgk"]
+[ext_resource type="BitMap" uid="uid://pcvp0kxdlsgc" path="res://Assets/Buttons/BuildBar/BlueButton Bitmask.png" id="5_ke127"]
+[ext_resource type="Script" path="res://Scripts/small objects/button_label_adjuster.gd" id="7_ord0e"]
+[ext_resource type="Script" path="res://Scripts/button_controlled_ui.gd" id="8_2kkq4"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_w10ib"]
+font_size = 32
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_v5p0h"]
+font_size = 32
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[node name="BuildBar" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 824.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_mm7lc")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -256.0
+grow_horizontal = 2
+grow_vertical = 0
+texture = ExtResource("1_bt6lq")
+expand_mode = 1
+
+[node name="Buttons" type="Control" parent="TextureRect"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+mouse_filter = 2
+
+[node name="Renew" type="TextureButton" parent="TextureRect/Buttons"]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = 500.0
+offset_top = -64.0
+offset_right = 876.0
+offset_bottom = 37.0
+grow_horizontal = 2
+toggle_mode = true
+keep_pressed_outside = true
+button_group = ExtResource("2_fuimx")
+texture_normal = ExtResource("2_vvbxa")
+texture_pressed = ExtResource("3_d7lt2")
+texture_hover = ExtResource("4_wmqgk")
+texture_click_mask = ExtResource("5_ke127")
+ignore_texture_size = true
+stretch_mode = 0
+
+[node name="Label" type="Label" parent="TextureRect/Buttons/Renew"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -180.0
+offset_top = -18.5
+offset_right = 189.0
+offset_bottom = 20.5
+grow_horizontal = 2
+grow_vertical = 2
+text = "Renewable Generators"
+label_settings = SubResource("LabelSettings_w10ib")
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("7_ord0e")
+button_group = ExtResource("2_fuimx")
+
+[node name="Fossil" type="TextureButton" parent="TextureRect/Buttons"]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = 1004.0
+offset_top = -64.0
+offset_right = 1380.0
+offset_bottom = 37.0
+grow_horizontal = 2
+toggle_mode = true
+keep_pressed_outside = true
+button_group = ExtResource("2_fuimx")
+texture_normal = ExtResource("2_vvbxa")
+texture_pressed = ExtResource("3_d7lt2")
+texture_hover = ExtResource("4_wmqgk")
+texture_click_mask = ExtResource("5_ke127")
+ignore_texture_size = true
+stretch_mode = 0
+
+[node name="Label" type="Label" parent="TextureRect/Buttons/Fossil"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -180.0
+offset_top = -18.5
+offset_right = 189.0
+offset_bottom = 20.5
+grow_horizontal = 2
+grow_vertical = 2
+text = "Fossil Fuel Generators"
+label_settings = SubResource("LabelSettings_v5p0h")
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("7_ord0e")
+button_group = ExtResource("2_fuimx")
+
+[node name="Panels" type="Control" parent="TextureRect"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Renewables" type="HBoxContainer" parent="TextureRect/Panels" node_paths=PackedStringArray("button")]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 40.0
+offset_top = 24.0
+offset_right = -40.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("8_2kkq4")
+button = NodePath("../../Buttons/Renew")
+button_group = ExtResource("2_fuimx")
+
+[node name="Fossil" type="HBoxContainer" parent="TextureRect/Panels" node_paths=PackedStringArray("button")]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 40.0
+offset_top = 24.0
+offset_right = -40.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("8_2kkq4")
+button = NodePath("../../Buttons/Fossil")
+button_group = ExtResource("2_fuimx")
+
+[connection signal="button_down" from="TextureRect/Buttons/Renew" to="TextureRect/Buttons/Renew/Label" method="_on_texture_button_button_down"]
+[connection signal="button_up" from="TextureRect/Buttons/Renew" to="TextureRect/Buttons/Renew/Label" method="_on_texture_button_button_up"]
+[connection signal="pressed" from="TextureRect/Buttons/Renew" to="TextureRect/Buttons/Renew/Label" method="_on_texture_button_pressed"]
+[connection signal="button_down" from="TextureRect/Buttons/Fossil" to="TextureRect/Buttons/Fossil/Label" method="_on_texture_button_button_down"]
+[connection signal="button_up" from="TextureRect/Buttons/Fossil" to="TextureRect/Buttons/Fossil/Label" method="_on_texture_button_button_up"]
+[connection signal="pressed" from="TextureRect/Buttons/Fossil" to="TextureRect/Buttons/Fossil/Label" method="_on_texture_button_pressed"]

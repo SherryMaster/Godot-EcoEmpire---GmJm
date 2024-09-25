@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="348px" height="420px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 24.53 29.6"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+     <clipPath id="id0">
+      <path d="M11.11 27.35c-1.87,1.58 -4.06,1.4 -5.32,2.25l5.32 0 2.26 0 0 0 5.32 0c-1.25,-0.85 -3.44,-0.67 -5.32,-2.25l0 -11.28 -2.26 0 0 11.28z"/>
+     </clipPath>
+       <clipPath id="id1">
+        <path d="M14.61 14.55l-2.09 -1.2 -0.55 0.94 2.09 1.21 9.88 5.7 0.59 -1.02 -7.86 -5.91c-0.97,-0.58 -1.63,-0.43 -2.06,0.28z"/>
+       </clipPath>
+       <clipPath id="id2">
+        <path d="M10.42 15.5l2.1 -1.21 -0.55 -0.94 -2.09 1.2 -9.88 5.71 0.59 1.02 9.05 -3.85c0.98,-0.55 1.19,-1.2 0.78,-1.93z"/>
+       </clipPath>
+       <clipPath id="id3">
+        <path d="M11.7 11.4l0 2.42 1.09 0 0 -2.42 0 -11.4 -1.19 0 -1.18 9.76c-0.02,1.13 0.44,1.63 1.28,1.64z"/>
+       </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1958156896080">
+   <g>
+    <path fill="#D8EEFC" d="M11.11 27.35c-1.87,1.58 -4.06,1.4 -5.32,2.25l5.32 0 2.26 0 0 0 5.32 0c-1.25,-0.85 -3.44,-0.67 -5.32,-2.25l0 -11.28 -2.26 0 0 11.28z"/>
+    <g clip-path="url(#id0)">
+     <g>
+      <g>
+       <path id="_1" fill="white" fill-opacity="0.501961" d="M11.46 17.39l0 9.96c-0.8,0.58 -1.51,1.07 -2.8,1.41 -1.08,0.28 -1.78,0.34 -2.87,0.84l1.94 -14.93 3.68 -2.58 0.05 5.3z"/>
+       <path fill="#00004D" fill-opacity="0.250980" d="M13.03 17.39l0 9.96c0.8,0.58 1.5,1.07 2.79,1.41 1.08,0.28 1.78,0.34 2.87,0.84l-1.94 -14.93 -3.68 -2.58 -0.04 5.3z"/>
+      </g>
+     </g>
+    </g>
+    <path fill="none" d="M11.11 27.35c-1.87,1.58 -4.06,1.4 -5.32,2.25l5.32 0 2.26 0 0 0 5.32 0c-1.25,-0.85 -3.44,-0.67 -5.32,-2.25l0 -11.28 -2.26 0 0 11.28z"/>
+    <g>
+     <circle fill="#8CA2A8" cx="12.24" cy="13.82" r="3.65"/>
+     <circle fill="#A7C2C9" cx="12.24" cy="13.82" r="3.3"/>
+    </g>
+   </g>
+   <g>
+    <g>
+     <g>
+      <path fill="#BCEBF7" d="M14.61 14.55l-2.09 -1.2 -0.55 0.94 2.09 1.21 9.88 5.7 0.59 -1.02 -7.86 -5.91c-0.97,-0.58 -1.63,-0.43 -2.06,0.28z"/>
+      <g clip-path="url(#id1)">
+       <g>
+        <rect fill="#336699" transform="matrix(0.701976 0.405286 -0.404989 0.701461 12.5155 13.3461)" width="2.98" height="1.35"/>
+        <path fill="white" fill-opacity="0.501961" d="M14.61 14.55c0.39,-0.6 1.01,-0.64 1.89,-0.02l7.93 5.83 0.62 -1.09 -10.02 -6.57c-0.14,0.62 -0.28,1.24 -0.42,1.85z"/>
+       </g>
+      </g>
+      <path fill="none" d="M14.61 14.55l-2.09 -1.2 -0.55 0.94 2.09 1.21 9.88 5.7 0.59 -1.02 -7.86 -5.91c-0.97,-0.58 -1.63,-0.43 -2.06,0.28z"/>
+      <polygon fill="#000066" fill-opacity="0.168627" points="14.06,15.5 23.94,21.2 24.09,20.94 14.21,15.23 "/>
+     </g>
+     <polygon fill="#000066" fill-opacity="0.231373" stroke="#373435" stroke-width="0.06" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="14.21,15.23 12.12,14.03 11.97,14.29 14.06,15.5 "/>
+     <polygon fill="white" fill-opacity="0.231373" stroke="#373435" stroke-width="0.06" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="14.61,14.55 12.52,13.35 12.36,13.61 14.45,14.82 "/>
+    </g>
+    <g>
+     <g>
+      <path fill="#BCEBF7" d="M10.42 15.5l2.1 -1.21 -0.55 -0.94 -2.09 1.2 -9.88 5.71 0.59 1.02 9.05 -3.85c0.98,-0.55 1.19,-1.2 0.78,-1.93z"/>
+      <g clip-path="url(#id2)">
+       <g>
+        <rect fill="#336699" transform="matrix(-0.701976 0.405286 -0.404989 -0.701461 12.5155 14.2936)" width="2.98" height="1.35"/>
+        <path fill="white" fill-opacity="0.501961" d="M10.42 15.5c0.33,0.65 0.06,1.2 -0.92,1.66l-9.01 3.94 0.63 1.09 10.7 -5.4c-0.47,-0.43 -0.93,-0.86 -1.4,-1.29z"/>
+       </g>
+      </g>
+      <path fill="none" d="M10.42 15.5l2.1 -1.21 -0.55 -0.94 -2.09 1.2 -9.88 5.71 0.59 1.02 9.05 -3.85c0.98,-0.55 1.19,-1.2 0.78,-1.93z"/>
+      <polygon fill="#000066" fill-opacity="0.168627" points="9.88,14.55 0,20.26 0.16,20.52 10.03,14.82 "/>
+     </g>
+     <polygon fill="#000066" fill-opacity="0.231373" stroke="#373435" stroke-width="0.06" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="10.03,14.82 12.12,13.61 11.97,13.35 9.88,14.55 "/>
+     <polygon fill="white" fill-opacity="0.231373" stroke="#373435" stroke-width="0.06" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="10.42,15.5 12.52,14.29 12.36,14.02 10.27,15.23 "/>
+    </g>
+    <g>
+     <g>
+      <path fill="#BCEBF7" d="M11.7 11.4l0 2.42 1.09 0 0 -2.42 0 -11.4 -1.19 0 -1.18 9.76c-0.02,1.13 0.44,1.63 1.28,1.64z"/>
+      <g clip-path="url(#id3)">
+       <g>
+        <rect fill="#336699" transform="matrix(-6.43929E-14 -0.810573 0.809977 -6.44484E-14 11.695 13.8199)" width="2.98" height="1.35"/>
+        <path fill="white" fill-opacity="0.501961" d="M11.7 11.4c-0.73,-0.03 -1.07,-0.55 -0.97,-1.62l1.08 -9.78 -1.25 0 -0.68 11.97c0.61,-0.19 1.21,-0.38 1.82,-0.57z"/>
+       </g>
+      </g>
+      <path fill="none" d="M11.7 11.4l0 2.42 1.09 0 0 -2.42 0 -11.4 -1.19 0 -1.18 9.76c-0.02,1.13 0.44,1.63 1.28,1.64z"/>
+      <polygon fill="#000066" fill-opacity="0.168627" points="12.79,11.4 12.79,0 12.48,0 12.48,11.4 "/>
+     </g>
+     <polygon fill="#000066" fill-opacity="0.231373" stroke="#373435" stroke-width="0.06" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="12.48,11.4 12.48,13.82 12.79,13.82 12.79,11.4 "/>
+     <polygon fill="white" fill-opacity="0.231373" stroke="#373435" stroke-width="0.06" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="11.7,11.4 11.7,13.82 12.01,13.82 12.01,11.4 "/>
+    </g>
+    <ellipse fill="#E5FAFF" transform="matrix(0.701467 0.404992 -0.404992 0.701467 12.2421 13.8201)" rx="2.25" ry="2.26"/>
+    <ellipse fill="#D3E4E8" transform="matrix(0.582593 0.33636 -0.33636 0.582593 12.2421 13.8201)" rx="2.25" ry="2.26"/>
+   </g>
+  </g>
+ </g>
+</svg>

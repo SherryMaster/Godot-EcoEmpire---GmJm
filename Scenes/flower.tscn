@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://vbayrcrr5v6i"]
+
+[ext_resource type="Script" path="res://Scripts/small objects/flower.gd" id="1_dpjcn"]
+[ext_resource type="Texture2D" uid="uid://dq1gwfargu2cn" path="res://Assets/Flowers/Blue.svg" id="1_qbj73"]
+
+[node name="Flower" type="Node2D"]
+script = ExtResource("1_dpjcn")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.126, 0.126)
+texture = ExtResource("1_qbj73")

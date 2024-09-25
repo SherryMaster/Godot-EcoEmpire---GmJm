@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 162.79 162.79"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+      <clipPath id="id0">
+       <path d="M91.96 84.7l-9.44 -5.44 -2.46 4.27 9.43 5.45 44.57 25.73 2.67 -4.64 -35.45 -26.65c-4.38,-2.61 -7.38,-1.95 -9.32,1.28z"/>
+      </clipPath>
+      <clipPath id="id1">
+       <path d="M73.09 88.98l9.43 -5.45 -2.46 -4.28 -9.44 5.45 -44.57 25.73 2.68 4.64 40.81 -17.38c4.45,-2.48 5.38,-5.42 3.55,-8.71z"/>
+      </clipPath>
+      <clipPath id="id2">
+       <path d="M78.82 70.5l0 10.89 4.94 0 0 -10.89 0 -51.46 -5.36 0 -5.35 44.03c-0.08,5.09 2.01,7.36 5.77,7.43z"/>
+      </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="162.79" height="162.79"/>
+  <g id="_3082466428080">
+   <g>
+    <g>
+     <path fill="#BCEBF7" d="M91.96 84.7l-9.44 -5.44 -2.46 4.27 9.43 5.45 44.57 25.73 2.67 -4.64 -35.45 -26.65c-4.38,-2.61 -7.38,-1.95 -9.32,1.28z"/>
+     <g clip-path="url(#id0)">
+      <g>
+       <rect fill="#336699" transform="matrix(0.701976 0.405286 -0.404989 0.701461 82.5244 79.2553)" width="13.45" height="6.1"/>
+       <path fill="white" fill-opacity="0.501961" d="M91.96 84.7c1.78,-2.73 4.58,-2.91 8.56,-0.11l35.75 26.29 2.82 -4.89 -45.23 -29.63c-0.63,2.78 -1.27,5.56 -1.9,8.34z"/>
+      </g>
+     </g>
+     <path fill="none" d="M91.96 84.7l-9.44 -5.44 -2.46 4.27 9.43 5.45 44.57 25.73 2.67 -4.64 -35.45 -26.65c-4.38,-2.61 -7.38,-1.95 -9.32,1.28z"/>
+     <polygon fill="#000066" fill-opacity="0.168627" points="89.49,88.98 134.06,114.71 134.76,113.5 90.19,87.77 "/>
+    </g>
+    <polygon fill="#000066" fill-opacity="0.231373" stroke="#373435" stroke-width="0.29" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="90.19,87.77 80.76,82.32 80.06,83.53 89.49,88.98 "/>
+    <polygon fill="white" fill-opacity="0.231373" stroke="#373435" stroke-width="0.29" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="91.96,84.7 82.52,79.26 81.82,80.47 91.26,85.92 "/>
+   </g>
+   <g>
+    <g>
+     <path fill="#BCEBF7" d="M73.09 88.98l9.43 -5.45 -2.46 -4.28 -9.44 5.45 -44.57 25.73 2.68 4.64 40.81 -17.38c4.45,-2.48 5.38,-5.42 3.55,-8.71z"/>
+     <g clip-path="url(#id1)">
+      <g>
+       <rect fill="#336699" transform="matrix(-0.701976 0.405286 -0.404989 -0.701461 82.5244 83.5304)" width="13.45" height="6.1"/>
+       <path fill="white" fill-opacity="0.501961" d="M73.09 88.98c1.47,2.91 0.23,5.42 -4.18,7.46l-40.65 17.82 2.83 4.9 48.28 -24.37c-2.09,-1.93 -4.19,-3.87 -6.28,-5.81z"/>
+      </g>
+     </g>
+     <path fill="none" d="M73.09 88.98l9.43 -5.45 -2.46 -4.28 -9.44 5.45 -44.57 25.73 2.68 4.64 40.81 -17.38c4.45,-2.48 5.38,-5.42 3.55,-8.71z"/>
+     <polygon fill="#000066" fill-opacity="0.168627" points="70.62,84.7 26.05,110.43 26.75,111.64 71.32,85.92 "/>
+    </g>
+    <polygon fill="#000066" fill-opacity="0.231373" stroke="#373435" stroke-width="0.29" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="71.32,85.92 80.76,80.47 80.06,79.25 70.62,84.7 "/>
+    <polygon fill="white" fill-opacity="0.231373" stroke="#373435" stroke-width="0.29" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="73.09,88.98 82.52,83.53 81.82,82.32 72.39,87.77 "/>
+   </g>
+   <g>
+    <g>
+     <path fill="#BCEBF7" d="M78.82 70.5l0 10.89 4.94 0 0 -10.89 0 -51.46 -5.36 0 -5.35 44.03c-0.08,5.09 2.01,7.36 5.77,7.43z"/>
+     <g clip-path="url(#id2)">
+      <g>
+       <rect fill="#336699" transform="matrix(-6.44484E-14 -0.810573 0.809977 -6.42264E-14 78.8221 81.3928)" width="13.45" height="6.1"/>
+       <path fill="white" fill-opacity="0.501961" d="M78.82 70.5c-3.26,-0.18 -4.81,-2.51 -4.37,-7.36l4.89 -44.1 -5.65 0 -3.05 53.99c2.73,-0.85 5.46,-1.69 8.18,-2.53z"/>
+      </g>
+     </g>
+     <path fill="none" d="M78.82 70.5l0 10.89 4.94 0 0 -10.89 0 -51.46 -5.36 0 -5.35 44.03c-0.08,5.09 2.01,7.36 5.77,7.43z"/>
+     <polygon fill="#000066" fill-opacity="0.168627" points="83.76,70.5 83.76,19.04 82.36,19.04 82.36,70.5 "/>
+    </g>
+    <polygon fill="#000066" fill-opacity="0.231373" stroke="#373435" stroke-width="0.29" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="82.36,70.5 82.36,81.39 83.76,81.39 83.76,70.5 "/>
+    <polygon fill="white" fill-opacity="0.231373" stroke="#373435" stroke-width="0.29" stroke-miterlimit="2.61313" stroke-opacity="0.231373" points="78.82,70.5 78.82,81.39 80.22,81.39 80.22,70.5 "/>
+   </g>
+   <circle fill="#E5FAFF" transform="matrix(0.701467 0.404992 -0.404992 0.701467 81.2905 81.3937)" r="10.17"/>
+   <circle fill="#D3E4E8" transform="matrix(0.582593 0.33636 -0.33636 0.582593 81.2905 81.3937)" r="10.17"/>
+  </g>
+ </g>
+</svg>
