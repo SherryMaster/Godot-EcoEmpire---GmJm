@@ -120,3 +120,7 @@ func select_tile(m_pos: Vector2):
 func _on_stat_refresh_time_timeout() -> void:
 	for gen in get_tree().get_nodes_in_group("Generator") as Array[Generator]:
 		gen.collect_energy()
+
+
+func _on_carbon_reduction_time_timeout() -> void:
+	GameData.CarbonFootPrint -= GameData.CarbonReductionPower

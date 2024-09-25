@@ -106,4 +106,9 @@ scale = Vector2(0.695, 0.695)
 wait_time = 0.1
 autostart = true
 
+[node name="CarbonReductionTime" type="Timer" parent="."]
+wait_time = 5.0
+autostart = true
+
 [connection signal="timeout" from="StatRefreshTime" to="." method="_on_stat_refresh_time_timeout"]
+[connection signal="timeout" from="CarbonReductionTime" to="." method="_on_carbon_reduction_time_timeout"]

@@ -41,7 +41,7 @@ var Generators = [
 var Energy: float = 0:
 	set(value):
 		var prev_value = Energy
-		Energy = min(MaxEnergy, snapped(value, 0.01))
+		Energy = max(min(MaxEnergy, snapped(value, 0.01)), 0)
 		energy_changed.emit(Energy)
 
 var MaxEnergy: float = 50:
@@ -52,7 +52,7 @@ var MaxEnergy: float = 50:
 
 var CarbonFootPrint: float = 0:
 	set(value):
-		CarbonFootPrint = min(MaxCarbonFootPrint, value)
+		CarbonFootPrint = max(min(MaxCarbonFootPrint, snapped(value, 0.01)), 0)
 		carbon_changed.emit(CarbonFootPrint)
 		if CarbonFootPrint == MaxCarbonFootPrint:
 			carbon_maxed_out.emit()
@@ -61,6 +61,10 @@ var MaxCarbonFootPrint: float = 2500:
 	set(value):
 		MaxCarbonFootPrint = max(1, value)
 		max_carbon_changed.emit(MaxCarbonFootPrint)
+
+var CarbonReductionPower: float = 5: # Done every 5 seconds
+	set(value):
+		CarbonReductionPower = value
 
 
 func _ready() -> void:
