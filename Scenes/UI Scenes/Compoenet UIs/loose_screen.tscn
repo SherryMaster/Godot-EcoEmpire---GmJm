@@ -1,0 +1,162 @@
+[gd_scene load_steps=13 format=3 uid="uid://can0m5udc3vyy"]
+
+[ext_resource type="Texture2D" uid="uid://bp6tpn1pkbbew" path="res://Assets/UI/Loose Panel.svg" id="1_0nyvt"]
+[ext_resource type="Script" path="res://Scenes/UI Scenes/Compoenet UIs/loose_screen.gd" id="1_2x7u4"]
+[ext_resource type="Texture2D" uid="uid://uw4fo76iu0bx" path="res://Assets/Buttons/LooseScreen/Normal.svg" id="2_atiuc"]
+[ext_resource type="Texture2D" uid="uid://dilm56iabtdxt" path="res://Assets/Buttons/LooseScreen/Press.svg" id="3_lxyoy"]
+[ext_resource type="Texture2D" uid="uid://u0gnqqdq7rrp" path="res://Assets/Buttons/LooseScreen/Hover.svg" id="4_0qm0h"]
+[ext_resource type="Texture2D" uid="uid://bpjlfcvl26l8g" path="res://Assets/UI Icons/return.png" id="5_5npeh"]
+[ext_resource type="Texture2D" uid="uid://bbvfwqe5o5rxl" path="res://Assets/UI Icons/exit.png" id="6_6khmd"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_alwqa"]
+font_size = 128
+font_color = Color(0.330084, 0.369156, 0.320248, 1)
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_wetkr"]
+font_size = 48
+font_color = Color(0.31802, 0.31802, 0.31802, 1)
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[sub_resource type="Animation" id="Animation_626l7"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(1e-05, 1e-05)]
+}
+
+[sub_resource type="Animation" id="Animation_qnbxb"]
+resource_name = "new_animation"
+length = 0.3
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.3),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Vector2(1e-05, 1e-05), Vector2(1.2, 1.2), Vector2(1, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_tfdk2"]
+_data = {
+"RESET": SubResource("Animation_626l7"),
+"new_animation": SubResource("Animation_qnbxb")
+}
+
+[node name="LooseScreen" type="ColorRect"]
+process_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.303)
+script = ExtResource("1_2x7u4")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -492.5
+offset_top = -256.0
+offset_right = 492.5
+offset_bottom = 256.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1e-05, 1e-05)
+pivot_offset = Vector2(492.5, 256)
+texture = ExtResource("1_0nyvt")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="TextureRect"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="TextureRect/VBoxContainer"]
+custom_minimum_size = Vector2(0, 171.605)
+layout_mode = 2
+text = "You Lose"
+label_settings = SubResource("LabelSettings_alwqa")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Label2" type="Label" parent="TextureRect/VBoxContainer"]
+layout_mode = 2
+text = "You Emitted Too Much Carbon"
+label_settings = SubResource("LabelSettings_wetkr")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="TextureRect/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/separation = 200
+alignment = 1
+
+[node name="Restart" type="TextureButton" parent="TextureRect/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 4
+texture_normal = ExtResource("2_atiuc")
+texture_pressed = ExtResource("3_lxyoy")
+texture_hover = ExtResource("4_0qm0h")
+
+[node name="TextureRect" type="TextureRect" parent="TextureRect/VBoxContainer/HBoxContainer/Restart"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("5_5npeh")
+expand_mode = 1
+
+[node name="Quit" type="TextureButton" parent="TextureRect/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 4
+texture_normal = ExtResource("2_atiuc")
+texture_pressed = ExtResource("3_lxyoy")
+texture_hover = ExtResource("4_0qm0h")
+
+[node name="TextureRect" type="TextureRect" parent="TextureRect/VBoxContainer/HBoxContainer/Quit"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("6_6khmd")
+expand_mode = 1
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+process_mode = 3
+libraries = {
+"": SubResource("AnimationLibrary_tfdk2")
+}
+autoplay = "new_animation"
+
+[connection signal="pressed" from="TextureRect/VBoxContainer/HBoxContainer/Restart" to="." method="_on_restart_pressed"]
+[connection signal="pressed" from="TextureRect/VBoxContainer/HBoxContainer/Quit" to="." method="_on_quit_pressed"]

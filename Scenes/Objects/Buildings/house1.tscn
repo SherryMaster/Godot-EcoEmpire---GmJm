@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://d3n6ffnteyct0"]
+
+[ext_resource type="Script" path="res://Scripts/Objects/Building.gd" id="1_kr01p"]
+[ext_resource type="Texture2D" uid="uid://nqryac0rpnop" path="res://Assets/Items/Buildings/House1.svg" id="2_avokh"]
+[ext_resource type="PackedScene" uid="uid://dffhpjpe8lvux" path="res://Scenes/UI Scenes/Progress Bars/house_energy_progress.tscn" id="3_7hk32"]
+
+[node name="House" type="Node2D"]
+script = ExtResource("1_kr01p")
+energy_consumption = 3.0
+money_generation = 1.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("2_avokh")
+
+[node name="ProgressBar" parent="." instance=ExtResource("3_7hk32")]
+visible = false
+offset_left = -52.0
+offset_top = 34.0
+offset_right = 52.0
+offset_bottom = 58.0

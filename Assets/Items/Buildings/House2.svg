@@ -1,0 +1,4093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 157.59 157.59"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+    <clipPath id="id0">
+     <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+    </clipPath>
+       <clipPath id="id1">
+       </clipPath>
+       <clipPath id="id2">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id3">
+        <path d="M29.67 68.94l0 4.23 -0.12 0 0 -4.23 0.12 0z"/>
+       </clipPath>
+       <clipPath id="id4">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id5">
+        <path d="M29.55 77.8l0.12 0 0 4.34 -0.12 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id6">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id7">
+        <path d="M29.55 86.77l0.12 0 0 4.33 -0.12 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id8">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id9">
+        <path d="M29.55 95.74l0.12 0 0 4.33 -0.12 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id10">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id11">
+        <path d="M29.55 104.7l0.12 0 0 4.34 -0.12 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id12">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id13">
+        <path d="M29.55 113.67l0.12 0 0 4.34 -0.12 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id14">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id15">
+       </clipPath>
+       <clipPath id="id16">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id17">
+       </clipPath>
+       <clipPath id="id18">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id19">
+        <path d="M38.2 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id20">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id21">
+        <path d="M29.55 73.32l4.46 0 0 4.34 -4.46 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id22">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id23">
+        <path d="M29.82 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id24">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id25">
+        <path d="M29.55 82.29l4.46 0 0 4.33 -4.46 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id26">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id27">
+        <path d="M29.82 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id28">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id29">
+        <path d="M29.55 91.25l4.46 0 0 4.34 -4.46 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id30">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id31">
+        <path d="M29.82 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id32">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id33">
+        <path d="M29.82 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id34">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id35">
+        <path d="M29.82 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id36">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id37">
+        <path d="M29.55 100.22l4.46 0 0 4.34 -4.46 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id38">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id39">
+        <path d="M29.55 109.19l4.46 0 0 4.34 -4.46 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id40">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id41">
+        <path d="M29.55 118.16l4.46 0 0 0.03 -4.46 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id42">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id43">
+       </clipPath>
+       <clipPath id="id44">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id45">
+       </clipPath>
+       <clipPath id="id46">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id47">
+        <path d="M46.73 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id48">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id49">
+        <path d="M34.15 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id50">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id51">
+        <path d="M38.35 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id52">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id53">
+        <path d="M34.15 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id54">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id55">
+        <path d="M38.35 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id56">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id57">
+        <path d="M34.15 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id58">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id59">
+        <path d="M38.35 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id60">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id61">
+        <path d="M38.35 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id62">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id63">
+        <path d="M38.35 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id64">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id65">
+        <path d="M34.15 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id66">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id67">
+        <path d="M34.15 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id68">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id69">
+        <path d="M34.15 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id70">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id71">
+       </clipPath>
+       <clipPath id="id72">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id73">
+       </clipPath>
+       <clipPath id="id74">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id75">
+        <path d="M55.26 68.94l0 4.23 -8.39 0 0 -4.23 8.39 0z"/>
+       </clipPath>
+       <clipPath id="id76">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id77">
+        <path d="M42.68 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id78">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id79">
+        <path d="M46.87 77.8l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id80">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id81">
+        <path d="M42.68 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id82">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id83">
+        <path d="M46.87 86.77l8.39 0 0 4.33 -8.39 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id84">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id85">
+        <path d="M42.68 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id86">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id87">
+        <path d="M46.87 95.74l8.39 0 0 4.33 -8.39 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id88">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id89">
+        <path d="M46.87 104.7l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id90">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id91">
+        <path d="M46.87 113.67l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id92">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id93">
+        <path d="M42.68 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id94">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id95">
+        <path d="M42.68 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id96">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id97">
+        <path d="M42.68 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id98">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id99">
+       </clipPath>
+       <clipPath id="id100">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id101">
+       </clipPath>
+       <clipPath id="id102">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id103">
+       </clipPath>
+       <clipPath id="id104">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id105">
+       </clipPath>
+       <clipPath id="id106">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id107">
+       </clipPath>
+       <clipPath id="id108">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id109">
+       </clipPath>
+       <clipPath id="id110">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id111">
+        <path d="M63.78 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id112">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id113">
+        <path d="M97.89 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id114">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id115">
+        <path d="M128.04 73.17l-4.42 0 0 -4.23 4.42 0 0 4.23z"/>
+       </clipPath>
+       <clipPath id="id116">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id117">
+        <path d="M51.21 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id118">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id119">
+        <path d="M85.31 73.32l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id120">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id121">
+        <path d="M119.42 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id122">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id123">
+        <path d="M55.4 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id124">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id125">
+        <path d="M89.51 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id126">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id127">
+        <path d="M123.62 77.8l4.42 0 0 4.34 -4.42 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id128">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id129">
+        <path d="M51.21 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id130">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id131">
+        <path d="M85.31 82.29l8.39 0 0 4.33 -8.39 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id132">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id133">
+        <path d="M119.42 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id134">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id135">
+        <path d="M55.4 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id136">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id137">
+        <path d="M89.51 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id138">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id139">
+        <path d="M123.62 86.77l4.42 0 0 4.33 -4.42 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id140">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id141">
+        <path d="M51.21 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id142">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id143">
+        <path d="M85.31 91.25l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id144">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id145">
+        <path d="M119.42 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id146">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id147">
+        <path d="M55.4 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id148">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id149">
+        <path d="M89.51 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id150">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id151">
+        <path d="M123.62 95.74l4.42 0 0 4.33 -4.42 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id152">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id153">
+        <path d="M55.4 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id154">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id155">
+        <path d="M89.51 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id156">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id157">
+        <path d="M123.62 104.7l4.42 0 0 4.34 -4.42 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id158">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id159">
+        <path d="M55.4 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id160">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id161">
+        <path d="M89.51 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id162">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id163">
+        <path d="M123.62 113.67l4.42 0 0 4.34 -4.42 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id164">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id165">
+        <path d="M51.21 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id166">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id167">
+        <path d="M85.31 100.22l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id168">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id169">
+        <path d="M119.42 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id170">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id171">
+        <path d="M51.21 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id172">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id173">
+        <path d="M85.31 109.19l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id174">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id175">
+        <path d="M119.42 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id176">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id177">
+        <path d="M51.21 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id178">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id179">
+        <path d="M85.31 118.16l8.39 0 0 0.03 -8.39 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id180">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id181">
+        <path d="M119.42 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id182">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id183">
+       </clipPath>
+       <clipPath id="id184">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id185">
+       </clipPath>
+       <clipPath id="id186">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id187">
+       </clipPath>
+       <clipPath id="id188">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id189">
+       </clipPath>
+       <clipPath id="id190">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id191">
+       </clipPath>
+       <clipPath id="id192">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id193">
+        <path d="M72.31 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id194">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id195">
+        <path d="M106.41 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id196">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id197">
+        <path d="M59.73 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id198">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id199">
+        <path d="M93.84 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id200">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id201">
+        <path d="M127.95 73.32l0.09 0 0 4.34 -0.09 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id202">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id203">
+        <path d="M63.93 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id204">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id205">
+        <path d="M98.03 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id206">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id207">
+        <path d="M59.73 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id208">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id209">
+        <path d="M93.84 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id210">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id211">
+        <path d="M127.95 82.29l0.09 0 0 4.33 -0.09 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id212">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id213">
+        <path d="M63.93 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id214">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id215">
+        <path d="M98.03 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id216">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id217">
+        <path d="M59.73 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id218">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id219">
+        <path d="M93.84 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id220">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id221">
+        <path d="M127.95 91.25l0.09 0 0 4.34 -0.09 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id222">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id223">
+        <path d="M63.93 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id224">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id225">
+        <path d="M98.03 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id226">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id227">
+        <path d="M63.93 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id228">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id229">
+        <path d="M98.03 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id230">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id231">
+        <path d="M63.93 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id232">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id233">
+        <path d="M98.03 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id234">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id235">
+        <path d="M59.73 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id236">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id237">
+        <path d="M93.84 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id238">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id239">
+        <path d="M127.95 100.22l0.09 0 0 4.34 -0.09 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id240">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id241">
+        <path d="M59.73 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id242">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id243">
+        <path d="M93.84 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id244">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id245">
+        <path d="M127.95 109.19l0.09 0 0 4.34 -0.09 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id246">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id247">
+        <path d="M59.73 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id248">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id249">
+        <path d="M93.84 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id250">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id251">
+        <path d="M127.95 118.16l0.09 0 0 0.03 -0.09 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id252">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id253">
+       </clipPath>
+       <clipPath id="id254">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id255">
+       </clipPath>
+       <clipPath id="id256">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id257">
+       </clipPath>
+       <clipPath id="id258">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id259">
+       </clipPath>
+       <clipPath id="id260">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id261">
+        <path d="M80.83 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id262">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id263">
+        <path d="M114.94 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id264">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id265">
+        <path d="M68.26 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id266">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id267">
+        <path d="M102.37 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id268">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id269">
+        <path d="M72.45 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id270">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id271">
+        <path d="M106.56 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id272">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id273">
+        <path d="M68.26 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id274">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id275">
+        <path d="M102.37 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id276">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id277">
+        <path d="M72.45 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id278">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id279">
+        <path d="M106.56 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id280">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id281">
+        <path d="M68.26 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id282">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id283">
+        <path d="M102.37 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id284">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id285">
+        <path d="M72.45 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id286">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id287">
+        <path d="M106.56 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id288">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id289">
+        <path d="M72.45 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id290">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id291">
+        <path d="M106.56 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id292">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id293">
+        <path d="M72.45 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id294">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id295">
+        <path d="M106.56 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id296">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id297">
+        <path d="M68.26 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id298">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id299">
+        <path d="M102.37 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id300">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id301">
+        <path d="M68.26 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id302">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id303">
+        <path d="M102.37 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id304">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id305">
+        <path d="M68.26 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id306">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id307">
+        <path d="M102.37 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id308">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id309">
+       </clipPath>
+       <clipPath id="id310">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id311">
+       </clipPath>
+       <clipPath id="id312">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id313">
+       </clipPath>
+       <clipPath id="id314">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id315">
+       </clipPath>
+       <clipPath id="id316">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id317">
+        <path d="M89.36 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id318">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id319">
+        <path d="M123.47 68.94l0 4.23 -8.38 0 0 -4.23 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id320">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id321">
+        <path d="M76.79 73.32l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id322">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id323">
+        <path d="M110.89 73.32l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id324">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id325">
+        <path d="M80.98 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id326">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id327">
+        <path d="M115.09 77.8l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id328">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id329">
+        <path d="M76.79 82.29l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id330">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id331">
+        <path d="M110.89 82.29l8.39 0 0 4.33 -8.39 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id332">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id333">
+        <path d="M80.98 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id334">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id335">
+        <path d="M115.09 86.77l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id336">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id337">
+        <path d="M76.79 91.25l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id338">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id339">
+        <path d="M110.89 91.25l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id340">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id341">
+        <path d="M80.98 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id342">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id343">
+        <path d="M115.09 95.74l8.38 0 0 4.33 -8.38 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id344">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id345">
+        <path d="M80.98 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id346">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id347">
+        <path d="M115.09 104.7l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id348">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id349">
+        <path d="M80.98 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id350">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id351">
+        <path d="M115.09 113.67l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id352">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id353">
+        <path d="M76.79 100.22l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id354">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id355">
+        <path d="M110.89 100.22l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id356">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id357">
+        <path d="M76.79 109.19l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id358">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id359">
+        <path d="M110.89 109.19l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id360">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id361">
+        <path d="M76.79 118.16l8.38 0 0 0.03 -8.38 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id362">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+       <clipPath id="id363">
+        <path d="M110.89 118.16l8.39 0 0 0.03 -8.39 0 0 -0.03z"/>
+       </clipPath>
+       <clipPath id="id364">
+        <path d="M29.55 68.94l98.49 0 0 49.25 -98.49 0 0 -49.25z"/>
+       </clipPath>
+    <clipPath id="id365">
+     <path d="M49.25 39.4l59.09 0 19.7 29.54 -98.49 0 19.7 -29.54z"/>
+    </clipPath>
+     <clipPath id="id366">
+      <path d="M39.4 78.79l19.7 0 0 19.7 -19.7 0 0 -19.7z"/>
+     </clipPath>
+     <clipPath id="id367">
+      <path d="M98.49 78.79l19.7 0 0 19.7 -19.7 0 0 -19.7z"/>
+     </clipPath>
+    <clipPath id="id368">
+     <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+    </clipPath>
+       <clipPath id="id369">
+       </clipPath>
+       <clipPath id="id370">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id371">
+       </clipPath>
+       <clipPath id="id372">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id373">
+       </clipPath>
+       <clipPath id="id374">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id375">
+       </clipPath>
+       <clipPath id="id376">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id377">
+       </clipPath>
+       <clipPath id="id378">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id379">
+       </clipPath>
+       <clipPath id="id380">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id381">
+       </clipPath>
+       <clipPath id="id382">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id383">
+       </clipPath>
+       <clipPath id="id384">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id385">
+       </clipPath>
+       <clipPath id="id386">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id387">
+       </clipPath>
+       <clipPath id="id388">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id389">
+       </clipPath>
+       <clipPath id="id390">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id391">
+       </clipPath>
+       <clipPath id="id392">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id393">
+       </clipPath>
+       <clipPath id="id394">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id395">
+       </clipPath>
+       <clipPath id="id396">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id397">
+       </clipPath>
+       <clipPath id="id398">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id399">
+       </clipPath>
+       <clipPath id="id400">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id401">
+       </clipPath>
+       <clipPath id="id402">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id403">
+       </clipPath>
+       <clipPath id="id404">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id405">
+       </clipPath>
+       <clipPath id="id406">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id407">
+       </clipPath>
+       <clipPath id="id408">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id409">
+       </clipPath>
+       <clipPath id="id410">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id411">
+       </clipPath>
+       <clipPath id="id412">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id413">
+       </clipPath>
+       <clipPath id="id414">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id415">
+       </clipPath>
+       <clipPath id="id416">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id417">
+       </clipPath>
+       <clipPath id="id418">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id419">
+       </clipPath>
+       <clipPath id="id420">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id421">
+       </clipPath>
+       <clipPath id="id422">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id423">
+       </clipPath>
+       <clipPath id="id424">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id425">
+       </clipPath>
+       <clipPath id="id426">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id427">
+       </clipPath>
+       <clipPath id="id428">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id429">
+       </clipPath>
+       <clipPath id="id430">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id431">
+       </clipPath>
+       <clipPath id="id432">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id433">
+       </clipPath>
+       <clipPath id="id434">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id435">
+       </clipPath>
+       <clipPath id="id436">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id437">
+        <path d="M86.38 35.56l0.79 0 0 4.33 -0.79 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id438">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id439">
+       </clipPath>
+       <clipPath id="id440">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id441">
+        <path d="M86.38 44.52l0.79 0 0 4.34 -0.79 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id442">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id443">
+       </clipPath>
+       <clipPath id="id444">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id445">
+       </clipPath>
+       <clipPath id="id446">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id447">
+       </clipPath>
+       <clipPath id="id448">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id449">
+       </clipPath>
+       <clipPath id="id450">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id451">
+       </clipPath>
+       <clipPath id="id452">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id453">
+       </clipPath>
+       <clipPath id="id454">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id455">
+        <path d="M91.5 32.33l0 3.08 -5.12 0 0 -3.08 5.12 0z"/>
+       </clipPath>
+       <clipPath id="id456">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id457">
+        <path d="M87.31 35.56l8.39 0 0 4.33 -8.39 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id458">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id459">
+        <path d="M86.38 40.04l5.12 0 0 4.34 -5.12 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id460">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id461">
+        <path d="M87.31 44.52l8.39 0 0 4.34 -8.39 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id462">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id463">
+        <path d="M86.38 49.01l5.12 0 0 0.7 -5.12 0 0 -0.7z"/>
+       </clipPath>
+       <clipPath id="id464">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id465">
+       </clipPath>
+       <clipPath id="id466">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id467">
+       </clipPath>
+       <clipPath id="id468">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id469">
+       </clipPath>
+       <clipPath id="id470">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id471">
+       </clipPath>
+       <clipPath id="id472">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id473">
+       </clipPath>
+       <clipPath id="id474">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id475">
+        <path d="M100.03 32.33l0 3.08 -8.38 0 0 -3.08 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id476">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id477">
+        <path d="M95.84 35.56l4.91 0 0 4.33 -4.91 0 0 -4.33z"/>
+       </clipPath>
+       <clipPath id="id478">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id479">
+        <path d="M91.65 40.04l8.38 0 0 4.34 -8.38 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id480">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id481">
+        <path d="M95.84 44.52l4.91 0 0 4.34 -4.91 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id482">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id483">
+        <path d="M91.65 49.01l8.38 0 0 0.7 -8.38 0 0 -0.7z"/>
+       </clipPath>
+       <clipPath id="id484">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id485">
+       </clipPath>
+       <clipPath id="id486">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id487">
+       </clipPath>
+       <clipPath id="id488">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id489">
+       </clipPath>
+       <clipPath id="id490">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id491">
+       </clipPath>
+       <clipPath id="id492">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id493">
+       </clipPath>
+       <clipPath id="id494">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id495">
+        <path d="M100.75 35.41l-0.57 0 0 -3.08 0.57 0 0 3.08z"/>
+       </clipPath>
+       <clipPath id="id496">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id497">
+       </clipPath>
+       <clipPath id="id498">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id499">
+        <path d="M100.18 40.04l0.57 0 0 4.34 -0.57 0 0 -4.34z"/>
+       </clipPath>
+       <clipPath id="id500">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id501">
+       </clipPath>
+       <clipPath id="id502">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id503">
+        <path d="M100.18 49.01l0.57 0 0 0.7 -0.57 0 0 -0.7z"/>
+       </clipPath>
+       <clipPath id="id504">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id505">
+       </clipPath>
+       <clipPath id="id506">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id507">
+       </clipPath>
+       <clipPath id="id508">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id509">
+       </clipPath>
+       <clipPath id="id510">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id511">
+       </clipPath>
+       <clipPath id="id512">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id513">
+       </clipPath>
+       <clipPath id="id514">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id515">
+       </clipPath>
+       <clipPath id="id516">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id517">
+       </clipPath>
+       <clipPath id="id518">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id519">
+       </clipPath>
+       <clipPath id="id520">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id521">
+       </clipPath>
+       <clipPath id="id522">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id523">
+       </clipPath>
+       <clipPath id="id524">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id525">
+       </clipPath>
+       <clipPath id="id526">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id527">
+       </clipPath>
+       <clipPath id="id528">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id529">
+       </clipPath>
+       <clipPath id="id530">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id531">
+       </clipPath>
+       <clipPath id="id532">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id533">
+       </clipPath>
+       <clipPath id="id534">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id535">
+       </clipPath>
+       <clipPath id="id536">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id537">
+       </clipPath>
+       <clipPath id="id538">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id539">
+       </clipPath>
+       <clipPath id="id540">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id541">
+       </clipPath>
+       <clipPath id="id542">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id543">
+       </clipPath>
+       <clipPath id="id544">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id545">
+       </clipPath>
+       <clipPath id="id546">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id547">
+       </clipPath>
+       <clipPath id="id548">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id549">
+       </clipPath>
+       <clipPath id="id550">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id551">
+       </clipPath>
+       <clipPath id="id552">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id553">
+       </clipPath>
+       <clipPath id="id554">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id555">
+       </clipPath>
+       <clipPath id="id556">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id557">
+       </clipPath>
+       <clipPath id="id558">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id559">
+       </clipPath>
+       <clipPath id="id560">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id561">
+       </clipPath>
+       <clipPath id="id562">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id563">
+       </clipPath>
+       <clipPath id="id564">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id565">
+       </clipPath>
+       <clipPath id="id566">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+       <clipPath id="id567">
+       </clipPath>
+       <clipPath id="id568">
+        <path d="M86.38 32.33l14.37 0 0 17.38 -14.37 0 0 -17.38z"/>
+       </clipPath>
+    <clipPath id="id569">
+     <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+    </clipPath>
+       <clipPath id="id570">
+        <path d="M89.52 29.55l0 1.09 -5.8 0 0 -1.09 5.8 0z"/>
+       </clipPath>
+       <clipPath id="id571">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id572">
+        <path d="M83.72 30.79l1.6 0 0 2.56 -1.6 0 0 -2.56z"/>
+       </clipPath>
+       <clipPath id="id573">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id574">
+       </clipPath>
+       <clipPath id="id575">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id576">
+        <path d="M98.04 29.55l0 1.09 -8.38 0 0 -1.09 8.38 0z"/>
+       </clipPath>
+       <clipPath id="id577">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id578">
+        <path d="M85.47 30.79l8.38 0 0 2.56 -8.38 0 0 -2.56z"/>
+       </clipPath>
+       <clipPath id="id579">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id580">
+       </clipPath>
+       <clipPath id="id581">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id582">
+        <path d="M103.42 30.64l-5.23 0 0 -1.09 5.23 0 0 1.09z"/>
+       </clipPath>
+       <clipPath id="id583">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id584">
+        <path d="M94 30.79l8.38 0 0 2.56 -8.38 0 0 -2.56z"/>
+       </clipPath>
+       <clipPath id="id585">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id586">
+       </clipPath>
+       <clipPath id="id587">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id588">
+       </clipPath>
+       <clipPath id="id589">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id590">
+        <path d="M102.52 30.79l0.9 0 0 2.56 -0.9 0 0 -2.56z"/>
+       </clipPath>
+       <clipPath id="id591">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+       <clipPath id="id592">
+       </clipPath>
+       <clipPath id="id593">
+        <path d="M83.72 29.55l19.7 0 0 3.8 -19.7 0 0 -3.8z"/>
+       </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="157.59" height="157.59"/>
+  <g id="_1450771816736">
+   <polygon fill="#CC9933" points="29.55,68.94 128.04,68.94 128.04,118.19 29.55,118.19 "/>
+   <g clip-path="url(#id0)">
+    <g>
+     <g>
+      <g>
+      </g>
+      <g clip-path="url(#id1)">
+       <image x="21.29" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID1.png"/>
+      </g>
+      <g clip-path="url(#id2)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id3)">
+       <image x="21.29" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID2.png"/>
+      </g>
+      <g clip-path="url(#id4)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id5)">
+       <image x="21.29" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID3.png"/>
+      </g>
+      <g clip-path="url(#id6)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id7)">
+       <image x="21.29" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID4.png"/>
+      </g>
+      <g clip-path="url(#id8)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id9)">
+       <image x="21.29" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID5.png"/>
+      </g>
+      <g clip-path="url(#id10)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id11)">
+       <image x="21.29" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID6.png"/>
+      </g>
+      <g clip-path="url(#id12)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id13)">
+       <image x="21.29" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID7.png"/>
+      </g>
+      <g clip-path="url(#id14)">
+      </g>
+      <rect fill="#CC9933" x="21.15" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id15)">
+       <image x="29.82" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID8.png"/>
+      </g>
+      <g clip-path="url(#id16)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id17)">
+       <image x="25.63" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID9.png"/>
+      </g>
+      <g clip-path="url(#id18)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id19)">
+       <image x="29.82" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID10.png"/>
+      </g>
+      <g clip-path="url(#id20)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id21)">
+       <image x="25.63" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID11.png"/>
+      </g>
+      <g clip-path="url(#id22)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id23)">
+       <image x="29.82" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID12.png"/>
+      </g>
+      <g clip-path="url(#id24)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id25)">
+       <image x="25.63" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID13.png"/>
+      </g>
+      <g clip-path="url(#id26)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id27)">
+       <image x="29.82" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID14.png"/>
+      </g>
+      <g clip-path="url(#id28)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id29)">
+       <image x="25.63" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID15.png"/>
+      </g>
+      <g clip-path="url(#id30)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id31)">
+       <image x="29.82" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID16.png"/>
+      </g>
+      <g clip-path="url(#id32)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id33)">
+       <image x="29.82" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID17.png"/>
+      </g>
+      <g clip-path="url(#id34)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id35)">
+       <image x="29.82" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID18.png"/>
+      </g>
+      <g clip-path="url(#id36)">
+      </g>
+      <rect fill="#CC9933" x="29.67" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id37)">
+       <image x="25.63" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID19.png"/>
+      </g>
+      <g clip-path="url(#id38)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id39)">
+       <image x="25.63" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID20.png"/>
+      </g>
+      <g clip-path="url(#id40)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id41)">
+       <image x="25.63" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID21.png"/>
+      </g>
+      <g clip-path="url(#id42)">
+      </g>
+      <rect fill="#CC9933" x="25.48" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id43)">
+       <image x="38.35" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID22.png"/>
+      </g>
+      <g clip-path="url(#id44)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id45)">
+       <image x="34.15" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID23.png"/>
+      </g>
+      <g clip-path="url(#id46)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id47)">
+       <image x="38.35" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID24.png"/>
+      </g>
+      <g clip-path="url(#id48)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id49)">
+       <image x="34.15" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID25.png"/>
+      </g>
+      <g clip-path="url(#id50)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id51)">
+       <image x="38.35" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID26.png"/>
+      </g>
+      <g clip-path="url(#id52)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id53)">
+       <image x="34.15" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID27.png"/>
+      </g>
+      <g clip-path="url(#id54)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id55)">
+       <image x="38.35" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID28.png"/>
+      </g>
+      <g clip-path="url(#id56)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id57)">
+       <image x="34.15" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID29.png"/>
+      </g>
+      <g clip-path="url(#id58)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id59)">
+       <image x="38.35" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID30.png"/>
+      </g>
+      <g clip-path="url(#id60)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id61)">
+       <image x="38.35" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID31.png"/>
+      </g>
+      <g clip-path="url(#id62)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id63)">
+       <image x="38.35" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID32.png"/>
+      </g>
+      <g clip-path="url(#id64)">
+      </g>
+      <rect fill="#CC9933" x="38.2" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id65)">
+       <image x="34.15" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID33.png"/>
+      </g>
+      <g clip-path="url(#id66)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id67)">
+       <image x="34.15" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID34.png"/>
+      </g>
+      <g clip-path="url(#id68)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id69)">
+       <image x="34.15" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID35.png"/>
+      </g>
+      <g clip-path="url(#id70)">
+      </g>
+      <rect fill="#CC9933" x="34.01" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id71)">
+       <image x="46.87" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID36.png"/>
+      </g>
+      <g clip-path="url(#id72)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id73)">
+       <image x="42.68" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID37.png"/>
+      </g>
+      <g clip-path="url(#id74)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id75)">
+       <image x="46.87" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID38.png"/>
+      </g>
+      <g clip-path="url(#id76)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id77)">
+       <image x="42.68" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID39.png"/>
+      </g>
+      <g clip-path="url(#id78)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id79)">
+       <image x="46.87" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID40.png"/>
+      </g>
+      <g clip-path="url(#id80)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id81)">
+       <image x="42.68" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID41.png"/>
+      </g>
+      <g clip-path="url(#id82)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id83)">
+       <image x="46.87" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID42.png"/>
+      </g>
+      <g clip-path="url(#id84)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id85)">
+       <image x="42.68" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID43.png"/>
+      </g>
+      <g clip-path="url(#id86)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id87)">
+       <image x="46.87" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID44.png"/>
+      </g>
+      <g clip-path="url(#id88)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id89)">
+       <image x="46.87" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID45.png"/>
+      </g>
+      <g clip-path="url(#id90)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id91)">
+       <image x="46.87" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID46.png"/>
+      </g>
+      <g clip-path="url(#id92)">
+      </g>
+      <rect fill="#CC9933" x="46.73" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id93)">
+       <image x="42.68" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID47.png"/>
+      </g>
+      <g clip-path="url(#id94)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id95)">
+       <image x="42.68" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID48.png"/>
+      </g>
+      <g clip-path="url(#id96)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id97)">
+       <image x="42.68" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID49.png"/>
+      </g>
+      <g clip-path="url(#id98)">
+      </g>
+      <rect fill="#CC9933" x="42.54" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id99)">
+       <image x="55.4" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID50.png"/>
+      </g>
+      <g clip-path="url(#id100)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id101)">
+       <image x="89.51" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID51.png"/>
+      </g>
+      <g clip-path="url(#id102)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id103)">
+       <image x="123.62" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID52.png"/>
+      </g>
+      <g clip-path="url(#id104)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id105)">
+       <image x="51.21" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID53.png"/>
+      </g>
+      <g clip-path="url(#id106)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id107)">
+       <image x="85.31" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID54.png"/>
+      </g>
+      <g clip-path="url(#id108)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id109)">
+       <image x="119.42" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID55.png"/>
+      </g>
+      <g clip-path="url(#id110)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id111)">
+       <image x="55.4" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID56.png"/>
+      </g>
+      <g clip-path="url(#id112)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id113)">
+       <image x="89.51" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID57.png"/>
+      </g>
+      <g clip-path="url(#id114)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id115)">
+       <image x="123.62" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID58.png"/>
+      </g>
+      <g clip-path="url(#id116)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id117)">
+       <image x="51.21" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID59.png"/>
+      </g>
+      <g clip-path="url(#id118)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id119)">
+       <image x="85.31" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID60.png"/>
+      </g>
+      <g clip-path="url(#id120)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id121)">
+       <image x="119.42" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID61.png"/>
+      </g>
+      <g clip-path="url(#id122)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id123)">
+       <image x="55.4" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID62.png"/>
+      </g>
+      <g clip-path="url(#id124)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id125)">
+       <image x="89.51" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID63.png"/>
+      </g>
+      <g clip-path="url(#id126)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id127)">
+       <image x="123.62" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID64.png"/>
+      </g>
+      <g clip-path="url(#id128)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id129)">
+       <image x="51.21" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID65.png"/>
+      </g>
+      <g clip-path="url(#id130)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id131)">
+       <image x="85.31" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID66.png"/>
+      </g>
+      <g clip-path="url(#id132)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id133)">
+       <image x="119.42" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID67.png"/>
+      </g>
+      <g clip-path="url(#id134)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id135)">
+       <image x="55.4" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID68.png"/>
+      </g>
+      <g clip-path="url(#id136)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id137)">
+       <image x="89.51" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID69.png"/>
+      </g>
+      <g clip-path="url(#id138)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id139)">
+       <image x="123.62" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID70.png"/>
+      </g>
+      <g clip-path="url(#id140)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id141)">
+       <image x="51.21" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID71.png"/>
+      </g>
+      <g clip-path="url(#id142)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id143)">
+       <image x="85.31" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID72.png"/>
+      </g>
+      <g clip-path="url(#id144)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id145)">
+       <image x="119.42" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID73.png"/>
+      </g>
+      <g clip-path="url(#id146)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id147)">
+       <image x="55.4" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID74.png"/>
+      </g>
+      <g clip-path="url(#id148)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id149)">
+       <image x="89.51" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID75.png"/>
+      </g>
+      <g clip-path="url(#id150)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id151)">
+       <image x="123.62" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID76.png"/>
+      </g>
+      <g clip-path="url(#id152)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id153)">
+       <image x="55.4" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID77.png"/>
+      </g>
+      <g clip-path="url(#id154)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id155)">
+       <image x="89.51" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID78.png"/>
+      </g>
+      <g clip-path="url(#id156)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id157)">
+       <image x="123.62" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID79.png"/>
+      </g>
+      <g clip-path="url(#id158)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id159)">
+       <image x="55.4" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID80.png"/>
+      </g>
+      <g clip-path="url(#id160)">
+      </g>
+      <rect fill="#CC9933" x="55.25" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id161)">
+       <image x="89.51" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID81.png"/>
+      </g>
+      <g clip-path="url(#id162)">
+      </g>
+      <rect fill="#CC9933" x="89.36" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id163)">
+       <image x="123.62" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID82.png"/>
+      </g>
+      <g clip-path="url(#id164)">
+      </g>
+      <rect fill="#CC9933" x="123.47" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id165)">
+       <image x="51.21" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID83.png"/>
+      </g>
+      <g clip-path="url(#id166)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id167)">
+       <image x="85.31" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID84.png"/>
+      </g>
+      <g clip-path="url(#id168)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id169)">
+       <image x="119.42" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID85.png"/>
+      </g>
+      <g clip-path="url(#id170)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id171)">
+       <image x="51.21" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID86.png"/>
+      </g>
+      <g clip-path="url(#id172)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id173)">
+       <image x="85.31" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID87.png"/>
+      </g>
+      <g clip-path="url(#id174)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id175)">
+       <image x="119.42" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID88.png"/>
+      </g>
+      <g clip-path="url(#id176)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id177)">
+       <image x="51.21" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID89.png"/>
+      </g>
+      <g clip-path="url(#id178)">
+      </g>
+      <rect fill="#CC9933" x="51.06" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id179)">
+       <image x="85.31" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID90.png"/>
+      </g>
+      <g clip-path="url(#id180)">
+      </g>
+      <rect fill="#CC9933" x="85.17" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id181)">
+       <image x="119.42" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID91.png"/>
+      </g>
+      <g clip-path="url(#id182)">
+      </g>
+      <rect fill="#CC9933" x="119.28" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id183)">
+       <image x="63.93" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID92.png"/>
+      </g>
+      <g clip-path="url(#id184)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id185)">
+       <image x="98.03" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID93.png"/>
+      </g>
+      <g clip-path="url(#id186)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id187)">
+       <image x="59.73" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID94.png"/>
+      </g>
+      <g clip-path="url(#id188)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id189)">
+       <image x="93.84" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID95.png"/>
+      </g>
+      <g clip-path="url(#id190)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id191)">
+       <image x="127.95" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID96.png"/>
+      </g>
+      <g clip-path="url(#id192)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id193)">
+       <image x="63.93" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID97.png"/>
+      </g>
+      <g clip-path="url(#id194)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id195)">
+       <image x="98.03" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID98.png"/>
+      </g>
+      <g clip-path="url(#id196)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id197)">
+       <image x="59.73" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID99.png"/>
+      </g>
+      <g clip-path="url(#id198)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id199)">
+       <image x="93.84" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID100.png"/>
+      </g>
+      <g clip-path="url(#id200)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id201)">
+       <image x="127.95" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID101.png"/>
+      </g>
+      <g clip-path="url(#id202)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id203)">
+       <image x="63.93" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID102.png"/>
+      </g>
+      <g clip-path="url(#id204)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id205)">
+       <image x="98.03" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID103.png"/>
+      </g>
+      <g clip-path="url(#id206)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id207)">
+       <image x="59.73" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID104.png"/>
+      </g>
+      <g clip-path="url(#id208)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id209)">
+       <image x="93.84" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID105.png"/>
+      </g>
+      <g clip-path="url(#id210)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id211)">
+       <image x="127.95" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID106.png"/>
+      </g>
+      <g clip-path="url(#id212)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id213)">
+       <image x="63.93" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID107.png"/>
+      </g>
+      <g clip-path="url(#id214)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id215)">
+       <image x="98.03" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID108.png"/>
+      </g>
+      <g clip-path="url(#id216)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id217)">
+       <image x="59.73" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID109.png"/>
+      </g>
+      <g clip-path="url(#id218)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id219)">
+       <image x="93.84" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID110.png"/>
+      </g>
+      <g clip-path="url(#id220)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id221)">
+       <image x="127.95" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID111.png"/>
+      </g>
+      <g clip-path="url(#id222)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id223)">
+       <image x="63.93" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID112.png"/>
+      </g>
+      <g clip-path="url(#id224)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id225)">
+       <image x="98.03" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID113.png"/>
+      </g>
+      <g clip-path="url(#id226)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id227)">
+       <image x="63.93" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID114.png"/>
+      </g>
+      <g clip-path="url(#id228)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id229)">
+       <image x="98.03" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID115.png"/>
+      </g>
+      <g clip-path="url(#id230)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id231)">
+       <image x="63.93" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID116.png"/>
+      </g>
+      <g clip-path="url(#id232)">
+      </g>
+      <rect fill="#CC9933" x="63.78" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id233)">
+       <image x="98.03" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID117.png"/>
+      </g>
+      <g clip-path="url(#id234)">
+      </g>
+      <rect fill="#CC9933" x="97.89" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id235)">
+       <image x="59.73" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID118.png"/>
+      </g>
+      <g clip-path="url(#id236)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id237)">
+       <image x="93.84" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID119.png"/>
+      </g>
+      <g clip-path="url(#id238)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id239)">
+       <image x="127.95" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID120.png"/>
+      </g>
+      <g clip-path="url(#id240)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id241)">
+       <image x="59.73" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID121.png"/>
+      </g>
+      <g clip-path="url(#id242)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id243)">
+       <image x="93.84" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID122.png"/>
+      </g>
+      <g clip-path="url(#id244)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id245)">
+       <image x="127.95" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID123.png"/>
+      </g>
+      <g clip-path="url(#id246)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id247)">
+       <image x="59.73" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID124.png"/>
+      </g>
+      <g clip-path="url(#id248)">
+      </g>
+      <rect fill="#CC9933" x="59.59" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id249)">
+       <image x="93.84" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID125.png"/>
+      </g>
+      <g clip-path="url(#id250)">
+      </g>
+      <rect fill="#CC9933" x="93.7" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id251)">
+       <image x="127.95" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID126.png"/>
+      </g>
+      <g clip-path="url(#id252)">
+      </g>
+      <rect fill="#CC9933" x="127.8" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id253)">
+       <image x="72.45" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID127.png"/>
+      </g>
+      <g clip-path="url(#id254)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id255)">
+       <image x="106.56" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID128.png"/>
+      </g>
+      <g clip-path="url(#id256)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id257)">
+       <image x="68.26" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID129.png"/>
+      </g>
+      <g clip-path="url(#id258)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id259)">
+       <image x="102.37" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID130.png"/>
+      </g>
+      <g clip-path="url(#id260)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id261)">
+       <image x="72.45" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID131.png"/>
+      </g>
+      <g clip-path="url(#id262)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id263)">
+       <image x="106.56" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID132.png"/>
+      </g>
+      <g clip-path="url(#id264)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id265)">
+       <image x="68.26" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID133.png"/>
+      </g>
+      <g clip-path="url(#id266)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id267)">
+       <image x="102.37" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID134.png"/>
+      </g>
+      <g clip-path="url(#id268)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id269)">
+       <image x="72.45" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID135.png"/>
+      </g>
+      <g clip-path="url(#id270)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id271)">
+       <image x="106.56" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID136.png"/>
+      </g>
+      <g clip-path="url(#id272)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id273)">
+       <image x="68.26" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID137.png"/>
+      </g>
+      <g clip-path="url(#id274)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id275)">
+       <image x="102.37" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID138.png"/>
+      </g>
+      <g clip-path="url(#id276)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id277)">
+       <image x="72.45" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID139.png"/>
+      </g>
+      <g clip-path="url(#id278)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id279)">
+       <image x="106.56" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID140.png"/>
+      </g>
+      <g clip-path="url(#id280)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id281)">
+       <image x="68.26" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID141.png"/>
+      </g>
+      <g clip-path="url(#id282)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id283)">
+       <image x="102.37" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID142.png"/>
+      </g>
+      <g clip-path="url(#id284)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id285)">
+       <image x="72.45" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID143.png"/>
+      </g>
+      <g clip-path="url(#id286)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id287)">
+       <image x="106.56" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID144.png"/>
+      </g>
+      <g clip-path="url(#id288)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id289)">
+       <image x="72.45" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID145.png"/>
+      </g>
+      <g clip-path="url(#id290)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id291)">
+       <image x="106.56" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID146.png"/>
+      </g>
+      <g clip-path="url(#id292)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id293)">
+       <image x="72.45" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID147.png"/>
+      </g>
+      <g clip-path="url(#id294)">
+      </g>
+      <rect fill="#CC9933" x="72.31" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id295)">
+       <image x="106.56" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID148.png"/>
+      </g>
+      <g clip-path="url(#id296)">
+      </g>
+      <rect fill="#CC9933" x="106.41" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id297)">
+       <image x="68.26" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID149.png"/>
+      </g>
+      <g clip-path="url(#id298)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id299)">
+       <image x="102.37" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID150.png"/>
+      </g>
+      <g clip-path="url(#id300)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id301)">
+       <image x="68.26" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID151.png"/>
+      </g>
+      <g clip-path="url(#id302)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id303)">
+       <image x="102.37" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID152.png"/>
+      </g>
+      <g clip-path="url(#id304)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id305)">
+       <image x="68.26" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID153.png"/>
+      </g>
+      <g clip-path="url(#id306)">
+      </g>
+      <rect fill="#CC9933" x="68.12" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id307)">
+       <image x="102.37" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID154.png"/>
+      </g>
+      <g clip-path="url(#id308)">
+      </g>
+      <rect fill="#CC9933" x="102.22" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id309)">
+       <image x="80.98" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID155.png"/>
+      </g>
+      <g clip-path="url(#id310)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id311)">
+       <image x="115.09" y="59.87" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID156.png"/>
+      </g>
+      <g clip-path="url(#id312)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="59.72" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id313)">
+       <image x="76.79" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID157.png"/>
+      </g>
+      <g clip-path="url(#id314)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id315)">
+       <image x="110.89" y="64.35" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID158.png"/>
+      </g>
+      <g clip-path="url(#id316)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="64.21" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id317)">
+       <image x="80.98" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID159.png"/>
+      </g>
+      <g clip-path="url(#id318)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id319)">
+       <image x="115.09" y="68.84" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID160.png"/>
+      </g>
+      <g clip-path="url(#id320)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="68.69" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id321)">
+       <image x="76.79" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID161.png"/>
+      </g>
+      <g clip-path="url(#id322)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id323)">
+       <image x="110.89" y="73.32" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID162.png"/>
+      </g>
+      <g clip-path="url(#id324)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="73.17" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id325)">
+       <image x="80.98" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID163.png"/>
+      </g>
+      <g clip-path="url(#id326)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id327)">
+       <image x="115.09" y="77.8" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID164.png"/>
+      </g>
+      <g clip-path="url(#id328)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="77.66" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id329)">
+       <image x="76.79" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID165.png"/>
+      </g>
+      <g clip-path="url(#id330)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id331)">
+       <image x="110.89" y="82.29" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID166.png"/>
+      </g>
+      <g clip-path="url(#id332)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="82.14" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id333)">
+       <image x="80.98" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID167.png"/>
+      </g>
+      <g clip-path="url(#id334)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id335)">
+       <image x="115.09" y="86.77" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID168.png"/>
+      </g>
+      <g clip-path="url(#id336)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="86.62" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id337)">
+       <image x="76.79" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID169.png"/>
+      </g>
+      <g clip-path="url(#id338)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id339)">
+       <image x="110.89" y="91.25" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID170.png"/>
+      </g>
+      <g clip-path="url(#id340)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="91.1" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id341)">
+       <image x="80.98" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID171.png"/>
+      </g>
+      <g clip-path="url(#id342)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id343)">
+       <image x="115.09" y="95.74" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID172.png"/>
+      </g>
+      <g clip-path="url(#id344)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="95.59" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id345)">
+       <image x="80.98" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID173.png"/>
+      </g>
+      <g clip-path="url(#id346)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id347)">
+       <image x="115.09" y="104.7" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID174.png"/>
+      </g>
+      <g clip-path="url(#id348)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="104.56" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id349)">
+       <image x="80.98" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID175.png"/>
+      </g>
+      <g clip-path="url(#id350)">
+      </g>
+      <rect fill="#CC9933" x="80.83" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id351)">
+       <image x="115.09" y="113.67" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID176.png"/>
+      </g>
+      <g clip-path="url(#id352)">
+      </g>
+      <rect fill="#CC9933" x="114.94" y="113.53" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id353)">
+       <image x="76.79" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID177.png"/>
+      </g>
+      <g clip-path="url(#id354)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id355)">
+       <image x="110.89" y="100.22" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID178.png"/>
+      </g>
+      <g clip-path="url(#id356)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="100.07" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id357)">
+       <image x="76.79" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID179.png"/>
+      </g>
+      <g clip-path="url(#id358)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id359)">
+       <image x="110.89" y="109.19" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID180.png"/>
+      </g>
+      <g clip-path="url(#id360)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="109.04" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id361)">
+       <image x="76.79" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID181.png"/>
+      </g>
+      <g clip-path="url(#id362)">
+      </g>
+      <rect fill="#CC9933" x="76.64" y="118.01" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id363)">
+       <image x="110.89" y="118.16" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID182.png"/>
+      </g>
+      <g clip-path="url(#id364)">
+      </g>
+      <rect fill="#CC9933" x="110.75" y="118.01" width="8.38" height="4.34"/>
+     </g>
+    </g>
+   </g>
+   <polygon fill="none" points="29.55,68.94 128.04,68.94 128.04,118.19 29.55,118.19 "/>
+   <polygon fill="#990000" points="49.25,39.4 108.34,39.4 128.04,68.94 29.55,68.94 "/>
+   <g clip-path="url(#id365)">
+    <g>
+     <path id="_1" fill="none" stroke="#6E2425" stroke-width="0.96" stroke-miterlimit="2.61313" d="M85.76 0.32l-73.13 73.13m73.13 59.19l-73.13 -73.12m132.32 0l-73.12 73.12m17.41 -3.48l-73.13 -73.12m125.36 0l-73.12 73.12m24.37 -3.48l-73.12 -73.13m118.39 0l-73.12 73.13m31.33 -3.48l-73.12 -73.13m111.43 0l-73.13 73.13m38.31 -3.48l-73.13 -73.13m104.47 0l-73.13 73.12m45.27 -3.48l-73.13 -73.12m97.5 0l-73.12 73.12m52.23 -3.48l-73.12 -73.12m90.53 0l-73.12 73.12m59.19 -3.48l-73.12 -73.13m83.57 0l-73.13 73.13m66.16 -3.48l-73.12 -73.13m76.61 0l-73.13 73.13m73.13 -3.49l-73.13 -73.12m69.64 0l-73.12 73.12m80.09 -3.48l-73.13 -73.12m62.68 0l-73.12 73.12m87.05 -3.48l-73.12 -73.13m55.71 0l-73.12 73.13m94.01 -3.48l-73.12 -73.13m48.75 0l-73.13 73.13m100.99 -3.48l-73.13 -73.13m41.79 0l-73.13 73.12m107.95 -3.48l-73.13 -73.12m34.82 0l-73.12 73.12m114.91 -3.48l-73.12 -73.12m27.85 0l-73.12 73.12m121.87 -3.48l-73.12 -73.13m20.89 0l-73.13 73.13m128.84 -3.48l-73.12 -73.13m13.93 0l-73.13 73.13m132.32 -13.93l-73.12 73.12m69.64 -76.6l-73.12 73.12m69.64 -76.61l-73.12 73.13m69.64 -76.61l-73.13 73.13m69.65 -76.61l-73.13 73.12m69.64 -76.6l-73.12 73.12m69.64 -76.6l-73.12 73.12m69.64 -76.61l-73.13 73.13m69.65 -76.61l-73.13 73.13m69.64 -76.61l-73.12 73.12m69.64 -76.6l-73.12 73.12m69.64 -76.61l-73.12 73.13m69.64 -76.61l-73.13 73.13m69.65 -76.61l-73.13 73.12m69.64 -76.6l-73.12 73.12m69.64 -76.6l-73.12 73.12m69.64 -76.61l-73.13 73.13"/>
+    </g>
+   </g>
+   <polygon fill="none" points="49.25,39.4 108.34,39.4 128.04,68.94 29.55,68.94 "/>
+   <g>
+    <polygon fill="#00CCFF" points="39.4,78.79 59.1,78.79 59.1,98.49 39.4,98.49 "/>
+    <g clip-path="url(#id366)">
+     <g>
+      <g>
+       <polygon id="_1_8" fill="white" fill-opacity="0.501961" points="28.73,82.43 61.94,103.62 60.35,106.11 27.14,84.92 "/>
+       <polygon fill="white" fill-opacity="0.501961" points="37.34,70.71 70.56,91.9 67.13,97.27 33.92,76.09 "/>
+      </g>
+     </g>
+    </g>
+    <polygon fill="none" stroke="#663333" stroke-width="1.92" stroke-miterlimit="2.61313" points="39.4,78.79 59.1,78.79 59.1,98.49 39.4,98.49 "/>
+    <line fill="none" stroke="#663333" stroke-width="1.28" stroke-miterlimit="2.61313" x1="39.4" y1="88.64" x2="59.1" y2= "88.64" />
+    <line fill="none" stroke="#663333" stroke-width="1.28" stroke-miterlimit="2.61313" x1="49.25" y1="78.79" x2="49.25" y2= "98.49" />
+   </g>
+   <g>
+    <polygon fill="#00CCFF" points="98.49,78.79 118.19,78.79 118.19,98.49 98.49,98.49 "/>
+    <g clip-path="url(#id367)">
+     <g>
+      <g>
+       <polygon id="_1_9" fill="white" fill-opacity="0.501961" points="87.82,82.43 121.04,103.62 119.45,106.11 86.23,84.92 "/>
+       <polygon fill="white" fill-opacity="0.501961" points="96.44,70.71 129.65,91.9 126.23,97.27 93.01,76.09 "/>
+      </g>
+     </g>
+    </g>
+    <polygon fill="none" stroke="#663333" stroke-width="1.92" stroke-miterlimit="2.61313" points="98.49,78.79 118.19,78.79 118.19,98.49 98.49,98.49 "/>
+    <line fill="none" stroke="#663333" stroke-width="1.28" stroke-miterlimit="2.61313" x1="98.49" y1="88.64" x2="118.19" y2= "88.64" />
+    <line fill="none" stroke="#663333" stroke-width="1.28" stroke-miterlimit="2.61313" x1="108.34" y1="78.79" x2="108.34" y2= "98.49" />
+   </g>
+   <polygon fill="#663300" points="86.38,32.33 100.75,32.33 100.75,49.71 86.38,49.71 "/>
+   <g clip-path="url(#id368)">
+    <g>
+     <g>
+      <g>
+      </g>
+      <g clip-path="url(#id369)">
+       <image x="53.21" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID183.png"/>
+      </g>
+      <g clip-path="url(#id370)">
+      </g>
+      <rect fill="#996633" x="53.06" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id371)">
+       <image x="49.02" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID184.png"/>
+      </g>
+      <g clip-path="url(#id372)">
+      </g>
+      <rect fill="#996633" x="48.87" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id373)">
+       <image x="53.21" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID185.png"/>
+      </g>
+      <g clip-path="url(#id374)">
+      </g>
+      <rect fill="#996633" x="53.06" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id375)">
+       <image x="49.02" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID186.png"/>
+      </g>
+      <g clip-path="url(#id376)">
+      </g>
+      <rect fill="#996633" x="48.87" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id377)">
+       <image x="53.21" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID187.png"/>
+      </g>
+      <g clip-path="url(#id378)">
+      </g>
+      <rect fill="#996633" x="53.06" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id379)">
+       <image x="49.02" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID188.png"/>
+      </g>
+      <g clip-path="url(#id380)">
+      </g>
+      <rect fill="#996633" x="48.87" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id381)">
+       <image x="53.21" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID189.png"/>
+      </g>
+      <g clip-path="url(#id382)">
+      </g>
+      <rect fill="#996633" x="53.06" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id383)">
+       <image x="49.02" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID190.png"/>
+      </g>
+      <g clip-path="url(#id384)">
+      </g>
+      <rect fill="#996633" x="48.87" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id385)">
+       <image x="53.21" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID191.png"/>
+      </g>
+      <g clip-path="url(#id386)">
+      </g>
+      <rect fill="#996633" x="53.06" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id387)">
+       <image x="49.02" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID192.png"/>
+      </g>
+      <g clip-path="url(#id388)">
+      </g>
+      <rect fill="#996633" x="48.87" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id389)">
+       <image x="61.73" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID193.png"/>
+      </g>
+      <g clip-path="url(#id390)">
+      </g>
+      <rect fill="#996633" x="61.59" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id391)">
+       <image x="57.54" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID194.png"/>
+      </g>
+      <g clip-path="url(#id392)">
+      </g>
+      <rect fill="#996633" x="57.4" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id393)">
+       <image x="61.73" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID195.png"/>
+      </g>
+      <g clip-path="url(#id394)">
+      </g>
+      <rect fill="#996633" x="61.59" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id395)">
+       <image x="57.54" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID196.png"/>
+      </g>
+      <g clip-path="url(#id396)">
+      </g>
+      <rect fill="#996633" x="57.4" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id397)">
+       <image x="61.73" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID197.png"/>
+      </g>
+      <g clip-path="url(#id398)">
+      </g>
+      <rect fill="#996633" x="61.59" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id399)">
+       <image x="57.54" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID198.png"/>
+      </g>
+      <g clip-path="url(#id400)">
+      </g>
+      <rect fill="#996633" x="57.4" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id401)">
+       <image x="61.73" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID199.png"/>
+      </g>
+      <g clip-path="url(#id402)">
+      </g>
+      <rect fill="#996633" x="61.59" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id403)">
+       <image x="57.54" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID200.png"/>
+      </g>
+      <g clip-path="url(#id404)">
+      </g>
+      <rect fill="#996633" x="57.4" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id405)">
+       <image x="61.73" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID201.png"/>
+      </g>
+      <g clip-path="url(#id406)">
+      </g>
+      <rect fill="#996633" x="61.59" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id407)">
+       <image x="57.54" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID202.png"/>
+      </g>
+      <g clip-path="url(#id408)">
+      </g>
+      <rect fill="#996633" x="57.4" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id409)">
+       <image x="70.26" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID203.png"/>
+      </g>
+      <g clip-path="url(#id410)">
+      </g>
+      <rect fill="#996633" x="70.12" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id411)">
+       <image x="66.07" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID204.png"/>
+      </g>
+      <g clip-path="url(#id412)">
+      </g>
+      <rect fill="#996633" x="65.92" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id413)">
+       <image x="70.26" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID205.png"/>
+      </g>
+      <g clip-path="url(#id414)">
+      </g>
+      <rect fill="#996633" x="70.12" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id415)">
+       <image x="66.07" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID206.png"/>
+      </g>
+      <g clip-path="url(#id416)">
+      </g>
+      <rect fill="#996633" x="65.92" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id417)">
+       <image x="70.26" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID207.png"/>
+      </g>
+      <g clip-path="url(#id418)">
+      </g>
+      <rect fill="#996633" x="70.12" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id419)">
+       <image x="66.07" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID208.png"/>
+      </g>
+      <g clip-path="url(#id420)">
+      </g>
+      <rect fill="#996633" x="65.92" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id421)">
+       <image x="70.26" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID209.png"/>
+      </g>
+      <g clip-path="url(#id422)">
+      </g>
+      <rect fill="#996633" x="70.12" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id423)">
+       <image x="66.07" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID210.png"/>
+      </g>
+      <g clip-path="url(#id424)">
+      </g>
+      <rect fill="#996633" x="65.92" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id425)">
+       <image x="70.26" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID211.png"/>
+      </g>
+      <g clip-path="url(#id426)">
+      </g>
+      <rect fill="#996633" x="70.12" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id427)">
+       <image x="66.07" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID212.png"/>
+      </g>
+      <g clip-path="url(#id428)">
+      </g>
+      <rect fill="#996633" x="65.92" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id429)">
+       <image x="78.79" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID213.png"/>
+      </g>
+      <g clip-path="url(#id430)">
+      </g>
+      <rect fill="#996633" x="78.64" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id431)">
+       <image x="74.59" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID214.png"/>
+      </g>
+      <g clip-path="url(#id432)">
+      </g>
+      <rect fill="#996633" x="74.45" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id433)">
+       <image x="78.79" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID215.png"/>
+      </g>
+      <g clip-path="url(#id434)">
+      </g>
+      <rect fill="#996633" x="78.64" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id435)">
+       <image x="74.59" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID216.png"/>
+      </g>
+      <g clip-path="url(#id436)">
+      </g>
+      <rect fill="#996633" x="74.45" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id437)">
+       <image x="78.79" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID217.png"/>
+      </g>
+      <g clip-path="url(#id438)">
+      </g>
+      <rect fill="#996633" x="78.64" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id439)">
+       <image x="74.59" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID218.png"/>
+      </g>
+      <g clip-path="url(#id440)">
+      </g>
+      <rect fill="#996633" x="74.45" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id441)">
+       <image x="78.79" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID219.png"/>
+      </g>
+      <g clip-path="url(#id442)">
+      </g>
+      <rect fill="#996633" x="78.64" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id443)">
+       <image x="74.59" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID220.png"/>
+      </g>
+      <g clip-path="url(#id444)">
+      </g>
+      <rect fill="#996633" x="74.45" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id445)">
+       <image x="78.79" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID221.png"/>
+      </g>
+      <g clip-path="url(#id446)">
+      </g>
+      <rect fill="#996633" x="78.64" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id447)">
+       <image x="74.59" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID222.png"/>
+      </g>
+      <g clip-path="url(#id448)">
+      </g>
+      <rect fill="#996633" x="74.45" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id449)">
+       <image x="87.31" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID223.png"/>
+      </g>
+      <g clip-path="url(#id450)">
+      </g>
+      <rect fill="#996633" x="87.17" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id451)">
+       <image x="83.12" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID224.png"/>
+      </g>
+      <g clip-path="url(#id452)">
+      </g>
+      <rect fill="#996633" x="82.98" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id453)">
+       <image x="87.31" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID225.png"/>
+      </g>
+      <g clip-path="url(#id454)">
+      </g>
+      <rect fill="#996633" x="87.17" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id455)">
+       <image x="83.12" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID226.png"/>
+      </g>
+      <g clip-path="url(#id456)">
+      </g>
+      <rect fill="#996633" x="82.98" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id457)">
+       <image x="87.31" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID227.png"/>
+      </g>
+      <g clip-path="url(#id458)">
+      </g>
+      <rect fill="#996633" x="87.17" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id459)">
+       <image x="83.12" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID228.png"/>
+      </g>
+      <g clip-path="url(#id460)">
+      </g>
+      <rect fill="#996633" x="82.98" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id461)">
+       <image x="87.31" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID229.png"/>
+      </g>
+      <g clip-path="url(#id462)">
+      </g>
+      <rect fill="#996633" x="87.17" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id463)">
+       <image x="83.12" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID230.png"/>
+      </g>
+      <g clip-path="url(#id464)">
+      </g>
+      <rect fill="#996633" x="82.98" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id465)">
+       <image x="87.31" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID231.png"/>
+      </g>
+      <g clip-path="url(#id466)">
+      </g>
+      <rect fill="#996633" x="87.17" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id467)">
+       <image x="83.12" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID232.png"/>
+      </g>
+      <g clip-path="url(#id468)">
+      </g>
+      <rect fill="#996633" x="82.98" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id469)">
+       <image x="95.84" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID233.png"/>
+      </g>
+      <g clip-path="url(#id470)">
+      </g>
+      <rect fill="#996633" x="95.69" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id471)">
+       <image x="91.65" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID234.png"/>
+      </g>
+      <g clip-path="url(#id472)">
+      </g>
+      <rect fill="#996633" x="91.5" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id473)">
+       <image x="95.84" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID235.png"/>
+      </g>
+      <g clip-path="url(#id474)">
+      </g>
+      <rect fill="#996633" x="95.69" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id475)">
+       <image x="91.65" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID236.png"/>
+      </g>
+      <g clip-path="url(#id476)">
+      </g>
+      <rect fill="#996633" x="91.5" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id477)">
+       <image x="95.84" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID237.png"/>
+      </g>
+      <g clip-path="url(#id478)">
+      </g>
+      <rect fill="#996633" x="95.69" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id479)">
+       <image x="91.65" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID238.png"/>
+      </g>
+      <g clip-path="url(#id480)">
+      </g>
+      <rect fill="#996633" x="91.5" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id481)">
+       <image x="95.84" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID239.png"/>
+      </g>
+      <g clip-path="url(#id482)">
+      </g>
+      <rect fill="#996633" x="95.69" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id483)">
+       <image x="91.65" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID240.png"/>
+      </g>
+      <g clip-path="url(#id484)">
+      </g>
+      <rect fill="#996633" x="91.5" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id485)">
+       <image x="95.84" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID241.png"/>
+      </g>
+      <g clip-path="url(#id486)">
+      </g>
+      <rect fill="#996633" x="95.69" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id487)">
+       <image x="91.65" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID242.png"/>
+      </g>
+      <g clip-path="url(#id488)">
+      </g>
+      <rect fill="#996633" x="91.5" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id489)">
+       <image x="104.37" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID243.png"/>
+      </g>
+      <g clip-path="url(#id490)">
+      </g>
+      <rect fill="#996633" x="104.22" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id491)">
+       <image x="100.18" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID244.png"/>
+      </g>
+      <g clip-path="url(#id492)">
+      </g>
+      <rect fill="#996633" x="100.03" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id493)">
+       <image x="104.37" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID245.png"/>
+      </g>
+      <g clip-path="url(#id494)">
+      </g>
+      <rect fill="#996633" x="104.22" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id495)">
+       <image x="100.18" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID246.png"/>
+      </g>
+      <g clip-path="url(#id496)">
+      </g>
+      <rect fill="#996633" x="100.03" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id497)">
+       <image x="104.37" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID247.png"/>
+      </g>
+      <g clip-path="url(#id498)">
+      </g>
+      <rect fill="#996633" x="104.22" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id499)">
+       <image x="100.18" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID248.png"/>
+      </g>
+      <g clip-path="url(#id500)">
+      </g>
+      <rect fill="#996633" x="100.03" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id501)">
+       <image x="104.37" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID249.png"/>
+      </g>
+      <g clip-path="url(#id502)">
+      </g>
+      <rect fill="#996633" x="104.22" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id503)">
+       <image x="100.18" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID250.png"/>
+      </g>
+      <g clip-path="url(#id504)">
+      </g>
+      <rect fill="#996633" x="100.03" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id505)">
+       <image x="104.37" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID251.png"/>
+      </g>
+      <g clip-path="url(#id506)">
+      </g>
+      <rect fill="#996633" x="104.22" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id507)">
+       <image x="100.18" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID252.png"/>
+      </g>
+      <g clip-path="url(#id508)">
+      </g>
+      <rect fill="#996633" x="100.03" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id509)">
+       <image x="112.89" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID253.png"/>
+      </g>
+      <g clip-path="url(#id510)">
+      </g>
+      <rect fill="#996633" x="112.75" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id511)">
+       <image x="108.7" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID254.png"/>
+      </g>
+      <g clip-path="url(#id512)">
+      </g>
+      <rect fill="#996633" x="108.56" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id513)">
+       <image x="112.89" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID255.png"/>
+      </g>
+      <g clip-path="url(#id514)">
+      </g>
+      <rect fill="#996633" x="112.75" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id515)">
+       <image x="108.7" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID256.png"/>
+      </g>
+      <g clip-path="url(#id516)">
+      </g>
+      <rect fill="#996633" x="108.56" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id517)">
+       <image x="112.89" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID257.png"/>
+      </g>
+      <g clip-path="url(#id518)">
+      </g>
+      <rect fill="#996633" x="112.75" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id519)">
+       <image x="108.7" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID258.png"/>
+      </g>
+      <g clip-path="url(#id520)">
+      </g>
+      <rect fill="#996633" x="108.56" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id521)">
+       <image x="112.89" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID259.png"/>
+      </g>
+      <g clip-path="url(#id522)">
+      </g>
+      <rect fill="#996633" x="112.75" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id523)">
+       <image x="108.7" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID260.png"/>
+      </g>
+      <g clip-path="url(#id524)">
+      </g>
+      <rect fill="#996633" x="108.56" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id525)">
+       <image x="112.89" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID261.png"/>
+      </g>
+      <g clip-path="url(#id526)">
+      </g>
+      <rect fill="#996633" x="112.75" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id527)">
+       <image x="108.7" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID262.png"/>
+      </g>
+      <g clip-path="url(#id528)">
+      </g>
+      <rect fill="#996633" x="108.56" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id529)">
+       <image x="121.42" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID263.png"/>
+      </g>
+      <g clip-path="url(#id530)">
+      </g>
+      <rect fill="#996633" x="121.27" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id531)">
+       <image x="117.23" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID264.png"/>
+      </g>
+      <g clip-path="url(#id532)">
+      </g>
+      <rect fill="#996633" x="117.08" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id533)">
+       <image x="121.42" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID265.png"/>
+      </g>
+      <g clip-path="url(#id534)">
+      </g>
+      <rect fill="#996633" x="121.27" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id535)">
+       <image x="117.23" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID266.png"/>
+      </g>
+      <g clip-path="url(#id536)">
+      </g>
+      <rect fill="#996633" x="117.08" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id537)">
+       <image x="121.42" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID267.png"/>
+      </g>
+      <g clip-path="url(#id538)">
+      </g>
+      <rect fill="#996633" x="121.27" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id539)">
+       <image x="117.23" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID268.png"/>
+      </g>
+      <g clip-path="url(#id540)">
+      </g>
+      <rect fill="#996633" x="117.08" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id541)">
+       <image x="121.42" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID269.png"/>
+      </g>
+      <g clip-path="url(#id542)">
+      </g>
+      <rect fill="#996633" x="121.27" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id543)">
+       <image x="117.23" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID270.png"/>
+      </g>
+      <g clip-path="url(#id544)">
+      </g>
+      <rect fill="#996633" x="117.08" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id545)">
+       <image x="121.42" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID271.png"/>
+      </g>
+      <g clip-path="url(#id546)">
+      </g>
+      <rect fill="#996633" x="121.27" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id547)">
+       <image x="117.23" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID272.png"/>
+      </g>
+      <g clip-path="url(#id548)">
+      </g>
+      <rect fill="#996633" x="117.08" y="57.83" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id549)">
+       <image x="129.95" y="17.62" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID273.png"/>
+      </g>
+      <g clip-path="url(#id550)">
+      </g>
+      <rect fill="#996633" x="129.8" y="17.48" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id551)">
+       <image x="125.76" y="22.11" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID274.png"/>
+      </g>
+      <g clip-path="url(#id552)">
+      </g>
+      <rect fill="#996633" x="125.61" y="21.96" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id553)">
+       <image x="129.95" y="26.59" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID275.png"/>
+      </g>
+      <g clip-path="url(#id554)">
+      </g>
+      <rect fill="#996633" x="129.8" y="26.44" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id555)">
+       <image x="125.76" y="31.07" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID276.png"/>
+      </g>
+      <g clip-path="url(#id556)">
+      </g>
+      <rect fill="#996633" x="125.61" y="30.93" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id557)">
+       <image x="129.95" y="35.56" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID277.png"/>
+      </g>
+      <g clip-path="url(#id558)">
+      </g>
+      <rect fill="#996633" x="129.8" y="35.41" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id559)">
+       <image x="125.76" y="40.04" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID278.png"/>
+      </g>
+      <g clip-path="url(#id560)">
+      </g>
+      <rect fill="#996633" x="125.61" y="39.89" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id561)">
+       <image x="129.95" y="44.52" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID279.png"/>
+      </g>
+      <g clip-path="url(#id562)">
+      </g>
+      <rect fill="#996633" x="129.8" y="44.38" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id563)">
+       <image x="125.76" y="49.01" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID280.png"/>
+      </g>
+      <g clip-path="url(#id564)">
+      </g>
+      <rect fill="#996633" x="125.61" y="48.86" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id565)">
+       <image x="129.95" y="53.49" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID281.png"/>
+      </g>
+      <g clip-path="url(#id566)">
+      </g>
+      <rect fill="#996633" x="129.8" y="53.34" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id567)">
+       <image x="125.76" y="57.98" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID282.png"/>
+      </g>
+      <g clip-path="url(#id568)">
+      </g>
+      <rect fill="#996633" x="125.61" y="57.83" width="8.38" height="4.34"/>
+     </g>
+    </g>
+   </g>
+   <polygon fill="none" points="86.38,32.33 100.75,32.33 100.75,49.71 86.38,49.71 "/>
+   <polygon fill="#663300" points="83.72,29.55 103.42,29.55 103.42,33.35 83.72,33.35 "/>
+   <g clip-path="url(#id569)">
+    <g>
+     <g>
+      <g>
+      </g>
+      <g clip-path="url(#id570)">
+       <image x="81.13" y="26.31" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID283.png"/>
+      </g>
+      <g clip-path="url(#id571)">
+      </g>
+      <rect fill="#663300" x="80.99" y="26.16" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id572)">
+       <image x="76.94" y="30.79" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID284.png"/>
+      </g>
+      <g clip-path="url(#id573)">
+      </g>
+      <rect fill="#663300" x="76.8" y="30.64" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id574)">
+       <image x="81.13" y="35.27" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID285.png"/>
+      </g>
+      <g clip-path="url(#id575)">
+      </g>
+      <rect fill="#663300" x="80.99" y="35.13" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id576)">
+       <image x="89.66" y="26.31" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID286.png"/>
+      </g>
+      <g clip-path="url(#id577)">
+      </g>
+      <rect fill="#663300" x="89.51" y="26.16" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id578)">
+       <image x="85.47" y="30.79" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID287.png"/>
+      </g>
+      <g clip-path="url(#id579)">
+      </g>
+      <rect fill="#663300" x="85.32" y="30.64" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id580)">
+       <image x="89.66" y="35.27" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID288.png"/>
+      </g>
+      <g clip-path="url(#id581)">
+      </g>
+      <rect fill="#663300" x="89.51" y="35.13" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id582)">
+       <image x="98.19" y="26.31" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID289.png"/>
+      </g>
+      <g clip-path="url(#id583)">
+      </g>
+      <rect fill="#663300" x="98.04" y="26.16" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id584)">
+       <image x="94" y="30.79" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID290.png"/>
+      </g>
+      <g clip-path="url(#id585)">
+      </g>
+      <rect fill="#663300" x="93.85" y="30.64" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id586)">
+       <image x="98.19" y="35.27" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID291.png"/>
+      </g>
+      <g clip-path="url(#id587)">
+      </g>
+      <rect fill="#663300" x="98.04" y="35.13" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id588)">
+       <image x="106.71" y="26.31" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID292.png"/>
+      </g>
+      <g clip-path="url(#id589)">
+      </g>
+      <rect fill="#663300" x="106.57" y="26.16" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id590)">
+       <image x="102.52" y="30.79" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID293.png"/>
+      </g>
+      <g clip-path="url(#id591)">
+      </g>
+      <rect fill="#663300" x="102.38" y="30.64" width="8.38" height="4.34"/>
+      <g>
+      </g>
+      <g clip-path="url(#id592)">
+       <image x="106.71" y="35.27" width="8.38" height="4.34" xlink:href="House2_Images\House2_ImgID294.png"/>
+      </g>
+      <g clip-path="url(#id593)">
+      </g>
+      <rect fill="#663300" x="106.57" y="35.13" width="8.38" height="4.34"/>
+     </g>
+    </g>
+   </g>
+   <polygon fill="none" points="83.72,29.55 103.42,29.55 103.42,33.35 83.72,33.35 "/>
+  </g>
+ </g>
+</svg>

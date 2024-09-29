@@ -2,22 +2,18 @@ extends Node2D
 class_name Generator
 
 @export var type: GameData.GeneratorTypes
-@export var energy_gen_sec: float
-@export var efficency: float = 0.5
+@export var energy_gen_sec: float = 0
 @onready var sprite_2d: Sprite2D = $Sprite2D
+@export var carbon_sec: float = 0
+var enabled: bool = true
 
-var enabled = false
+@onready var animation_player: AnimationPlayer = $AnimationPlayer
 
-var energy: float = 0
+func _ready() -> void:
+	if enabled and animation_player:
+		animation_player.play("default")
 
-
-func general_process(delta: float) -> void:
+func _process(delta: float) -> void:
 	if enabled:
-		generate_energy(delta)
-
-func generate_energy(delta):
-	energy += energy_gen_sec * delta
-
-func collect_energy():
-	GameData.Energy += energy
-	energy = 0
+		GameData.Energy += energy_gen_sec * delta
+		GameData.CarbonFootPrint += carbon_sec * delta

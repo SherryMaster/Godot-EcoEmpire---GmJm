@@ -5,7 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://dosfcwmrnarrh" path="res://Assets/Buttons/BuildBar/Slot - Hover.svg" id="3_we12m"]
 [ext_resource type="Texture2D" uid="uid://dy366ai1a2rhp" path="res://Assets/Buttons/BuildBar/Slot - Disabled.svg" id="4_upxfp"]
 [ext_resource type="Script" path="res://Scripts/small objects/build_button.gd" id="5_8v7ps"]
-[ext_resource type="Texture2D" uid="uid://b6qggeohn24ab" path="res://Assets/Items/WindTurbine Icon.svg" id="6_qait0"]
+[ext_resource type="Texture2D" uid="uid://b6qggeohn24ab" path="res://Assets/Items/Generators/WindTurbine Icon.svg" id="6_qait0"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_1ijl1"]
 font_size = 64

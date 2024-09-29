@@ -13,11 +13,12 @@ config_version=5
 config/name="Eco Empire"
 run/main_scene="res://Scenes/scene_handler.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://Assets/Icon.svg"
 
 [autoload]
 
 GameData="*res://SingleTons/GameData.gd"
+Utils="*res://SingleTons/Utils.gd"
 
 [display]
 

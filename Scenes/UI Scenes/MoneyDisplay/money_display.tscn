@@ -1,0 +1,48 @@
+[gd_scene load_steps=4 format=3 uid="uid://3cx2up6ij4q1"]
+
+[ext_resource type="Script" path="res://Scenes/UI Scenes/MoneyDisplay/money_display.gd" id="1_jp6iw"]
+[ext_resource type="LabelSettings" uid="uid://bd5m6jjaqb8ma" path="res://Resources/Font/MainLabel.tres" id="2_qrs0d"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_c08bh"]
+bg_color = Color(0.309804, 0.658824, 0.92549, 1)
+border_width_left = 5
+border_width_top = 5
+border_width_right = 5
+border_width_bottom = 5
+border_color = Color(0.107772, 0.429899, 0.65068, 1)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[node name="MoneyDisplay" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1792.0
+offset_bottom = -1016.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_jp6iw")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_c08bh")
+
+[node name="Label" type="Label" parent="Panel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "$ 999"
+label_settings = ExtResource("2_qrs0d")
+horizontal_alignment = 1
+vertical_alignment = 1

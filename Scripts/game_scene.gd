@@ -1,4 +1,7 @@
 extends Node2D
+signal game_over
+
+enum BuildModes{Generator, Building, Battery, Tree}
 
 @onready var grass: TileMapLayer = $Map/Grass
 @onready var map: WorldMap = $Map
@@ -9,21 +12,35 @@ extends Node2D
 @onready var preview_space: Node2D = $PreviewSpace
 @onready var objects: Node2D = $Objects
 @onready var game_camera: GameCamera = $GameCamera
+@onready var hud: CanvasLayer = $HUD
+@onready var q_to_cancel: Label = $HUD/QToCancel
+
 
 var build_mode: bool = false:
 	set(value):
 		build_mode = value
 		tile_marker.activated = value
+		if value:
+			build_bar.visible = false
+			q_to_cancel.visible = true
+		else:
+			build_bar.visible = true
+			q_to_cancel.visible = false
 var build_valid: bool = true:
 	set(value):
 		build_valid = value
 		tile_marker.tile_valid = value
 
-var button_index
+var current_build_mode: BuildModes
+
+var button_index: int
 var current_item_to_build
 
-var current_tile_pos
-var current_tile_cords
+var current_tile_pos: Vector2
+var current_tile_cords: Vector2i
+
+
+var pause_tile_check: bool = false
 
 const FLOWER = preload("res://Scenes/flower.tscn")
 
@@ -50,11 +67,21 @@ func _ready() -> void:
 		button.pressed.connect(initiate_build_mode.bind("renew", button))
 	for button in build_bar.fossil.get_children() as Array[Button]:
 		button.pressed.connect(initiate_build_mode.bind("fossil", button))
-
+	for button in build_bar.houses.get_children() as Array[Button]:
+		button.pressed.connect(initiate_build_mode.bind("house", button))
+	for button in build_bar.batteries.get_children() as Array[Button]:
+		button.pressed.connect(initiate_build_mode.bind("battery", button))
+	for button in build_bar.trees.get_children() as Array[Button]:
+		button.pressed.connect(initiate_build_mode.bind("tree", button))
+	
+	GameData.carbon_maxed_out.connect(func():
+		game_over.emit()
+	)
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	select_tile(get_global_mouse_position())
+	GameData.CarbonFootPrint -= GameData.CarbonReductionPower * (delta / 5)
 
 func initiate_build_mode(type, button):
 	if build_mode:
@@ -65,30 +92,89 @@ func initiate_build_mode(type, button):
 		initiate_generator_build_mode(GameData.GeneratorTypes.Renew)
 	elif type == "fossil":
 		initiate_generator_build_mode(GameData.GeneratorTypes.Fossil)
+	elif type == "house":
+		initiate_building_build_mode(GameData.BuildingTypes.House)
+	elif type == "battery":
+		initiate_battery_build_mode()
+	elif type == "tree":
+		initiate_tree_build_mode()
 	
 	game_camera.on_build_mode_started()
 
 func initiate_generator_build_mode(type: GameData.GeneratorTypes):
+	current_build_mode = BuildModes.Generator
+	
 	var build_items = []
 	build_items = GameData.Generators.filter(func(item): return item.type == type)
 	
 	current_item_to_build = build_items[button_index]
 	
 	var new_item = current_item_to_build.scene.instantiate() as Generator
+	new_item.enabled = false
 	new_item.modulate = Color(1, 1, 1, 0.5)
 	preview_space.add_child(new_item)
 
+func initiate_building_build_mode(type: GameData.BuildingTypes):
+	current_build_mode = BuildModes.Building
+	
+	var build_items = []
+	build_items = GameData.Buildings.filter(func(item): return item.type == type)
+	
+	current_item_to_build = build_items[button_index]
+	
+	var new_item = current_item_to_build.scene.instantiate() as Building
+	new_item.enabled = false
+	new_item.modulate = Color(1, 1, 1, 0.5)
+	preview_space.add_child(new_item)
+
+func initiate_battery_build_mode():
+	current_build_mode = BuildModes.Battery
+	
+	current_item_to_build = GameData.Batteries[button_index]
+	
+	var new_item = current_item_to_build.scene.instantiate() as Battery
+	new_item.enabled = false
+	new_item.modulate = Color(1, 1, 1, 0.5)
+	preview_space.add_child(new_item)
+
+func initiate_tree_build_mode():
+	current_build_mode = BuildModes.Tree
+	
+	current_item_to_build = GameData.Trees[button_index]
+	
+	var new_item = current_item_to_build.scene.instantiate() as TreeObject
+	new_item.enabled = false
+	new_item.modulate = Color(1, 1, 1, 0.5)
+	preview_space.add_child(new_item)
+
+
 func verify_and_build():
 	if build_valid:
-		var item_to_build = current_item_to_build.scene.instantiate() as Generator
-		item_to_build.global_position = current_tile_pos
-		item_to_build.energy_gen_sec = current_item_to_build.energy
-		if "carbon_sec" in item_to_build:
-			item_to_build.carbon_sec = current_item_to_build.carbon
-		item_to_build.enabled = true
-		objects.add_child(item_to_build)
-		
-		map.set_place_able(current_tile_cords, false)
+		if GameData.Money >= current_item_to_build.price:
+			var item_to_build = current_item_to_build.scene.instantiate()
+			item_to_build.global_position = current_tile_pos
+			if current_build_mode == BuildModes.Generator:
+				item_to_build.energy_gen_sec = current_item_to_build.energy
+				if "carbon" in current_item_to_build:
+					item_to_build.carbon_sec = current_item_to_build.carbon
+			if current_build_mode == BuildModes.Building:
+				item_to_build.energy_consumption = current_item_to_build.energy
+				item_to_build.money_generation = current_item_to_build.money
+			if current_build_mode == BuildModes.Tree:
+				item_to_build.carbon = current_item_to_build.carbon
+			if current_build_mode == BuildModes.Battery:
+				item_to_build.energy = current_item_to_build.energy
+			item_to_build.enabled = true
+			objects.add_child(item_to_build)
+			
+			GameData.Money -= current_item_to_build.price
+			map.set_place_able(current_tile_cords, false)
+		else:
+			build_valid = false
+			pause_tile_check = true
+			await get_tree().create_timer(0.2).timeout
+			build_valid = true
+			pause_tile_check = false
 		
 		return true
 	return false
@@ -110,17 +196,9 @@ func select_tile(m_pos: Vector2):
 	tile_marker.global_position = current_tile_pos
 	update_build_preview(current_tile_pos)
 	
-	if build_mode:
+	if build_mode and not pause_tile_check:
 		var can_place = map.get_place_able(current_tile_cords)
 		if can_place:
 			build_valid = true
 		else:
 			build_valid = false
-
-func _on_stat_refresh_time_timeout() -> void:
-	for gen in get_tree().get_nodes_in_group("Generator") as Array[Generator]:
-		gen.collect_energy()
-
-
-func _on_carbon_reduction_time_timeout() -> void:
-	GameData.CarbonFootPrint -= GameData.CarbonReductionPower

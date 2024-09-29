@@ -9,6 +9,11 @@ var can_place_objects: Dictionary
 func _ready() -> void:
 	for tile in grass.get_used_cells():
 		can_place_objects[tile] = grass.get_cell_tile_data(tile).get_custom_data("place_able")
+	
+	can_place_objects[Vector2i(34, 15)] = false
+	can_place_objects[Vector2i(34, 14)] = false
+	can_place_objects[Vector2i(31, 15)] = false
+	can_place_objects[Vector2i(30, 15)] = false
 
 
 func get_place_able(cords: Vector2i):

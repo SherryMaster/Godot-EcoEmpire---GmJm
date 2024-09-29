@@ -1,0 +1,150 @@
+[gd_scene load_steps=15 format=3 uid="uid://blue5fgxtxv7r"]
+
+[ext_resource type="Script" path="res://Scenes/UI Scenes/main_title.gd" id="1_5rdrb"]
+[ext_resource type="Texture2D" uid="uid://xti7x3calk7g" path="res://Assets/Main BG.svg" id="1_jt4yg"]
+[ext_resource type="Texture2D" uid="uid://m4ey6owgdhjr" path="res://Assets/Items/Trees/Tree1.svg" id="2_20q3s"]
+[ext_resource type="Texture2D" uid="uid://cvh80h028vexg" path="res://Assets/Buttons/BuildBar/Blue - Normal.svg" id="2_mvpq5"]
+[ext_resource type="Texture2D" uid="uid://ljcxjrj6t3s6" path="res://Assets/Buttons/BuildBar/Blue - Pressed.svg" id="3_1m1r2"]
+[ext_resource type="Texture2D" uid="uid://nqryac0rpnop" path="res://Assets/Items/Buildings/House1.svg" id="3_qxiha"]
+[ext_resource type="Texture2D" uid="uid://7t6e1khb2esb" path="res://Assets/Buttons/BuildBar/Blue - Hover.svg" id="4_5bbsr"]
+[ext_resource type="Texture2D" uid="uid://b6qggeohn24ab" path="res://Assets/Items/Generators/WindTurbine Icon.svg" id="4_pksna"]
+[ext_resource type="BitMap" uid="uid://pcvp0kxdlsgc" path="res://Assets/Buttons/BuildBar/BlueButton Bitmask.png" id="5_em6fk"]
+[ext_resource type="Script" path="res://Scripts/small objects/button_label_adjuster.gd" id="6_573yl"]
+[ext_resource type="Texture2D" uid="uid://6t350rs7651f" path="res://Assets/Items/Generators/GeneratorRed Icon.svg" id="10_fdqed"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_1qduo"]
+font_size = 122
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_5sdjw"]
+font_size = 222
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_e0apq"]
+font_size = 32
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 15
+shadow_color = Color(1, 1, 1, 1)
+
+[node name="MainTitle" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_5rdrb")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_jt4yg")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" type="Control" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="TextureRect2" type="TextureRect" parent="HBoxContainer/Control"]
+layout_mode = 0
+offset_left = 112.0
+offset_top = 96.0
+offset_right = 514.0
+offset_bottom = 464.0
+texture = ExtResource("2_20q3s")
+expand_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="HBoxContainer/Control"]
+layout_mode = 0
+offset_left = 392.0
+offset_top = 240.0
+offset_right = 648.0
+offset_bottom = 496.0
+texture = ExtResource("3_qxiha")
+
+[node name="TextureRect3" type="TextureRect" parent="HBoxContainer/Control"]
+layout_mode = 0
+offset_left = 56.0
+offset_top = 168.0
+offset_right = 458.0
+offset_bottom = 648.0
+texture = ExtResource("4_pksna")
+
+[node name="TextureRect4" type="TextureRect" parent="HBoxContainer/Control"]
+layout_mode = 0
+offset_left = 544.0
+offset_top = 440.0
+offset_right = 774.0
+offset_bottom = 679.0
+texture = ExtResource("10_fdqed")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="HBoxContainer/Control"]
+layout_mode = 0
+offset_left = 104.0
+offset_top = 720.0
+offset_right = 290.0
+offset_bottom = 865.0
+text = "Eco"
+label_settings = SubResource("LabelSettings_1qduo")
+
+[node name="Label2" type="Label" parent="HBoxContainer/Control"]
+layout_mode = 0
+offset_left = 144.0
+offset_top = 800.0
+offset_right = 483.0
+offset_bottom = 1063.0
+text = "Empire"
+label_settings = SubResource("LabelSettings_5sdjw")
+
+[node name="VBox" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+alignment = 1
+
+[node name="Play" type="TextureButton" parent="HBoxContainer/VBox"]
+custom_minimum_size = Vector2(450, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+texture_normal = ExtResource("2_mvpq5")
+texture_pressed = ExtResource("3_1m1r2")
+texture_hover = ExtResource("4_5bbsr")
+texture_click_mask = ExtResource("5_em6fk")
+stretch_mode = 0
+
+[node name="TextureButtonAdjustedLabel" type="Label" parent="HBoxContainer/VBox/Play"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 40.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Play"
+label_settings = SubResource("LabelSettings_e0apq")
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("6_573yl")
+
+[connection signal="button_down" from="HBoxContainer/VBox/Play" to="HBoxContainer/VBox/Play/TextureButtonAdjustedLabel" method="_on_texture_button_button_down"]
+[connection signal="button_up" from="HBoxContainer/VBox/Play" to="HBoxContainer/VBox/Play/TextureButtonAdjustedLabel" method="_on_texture_button_button_up"]
+[connection signal="pressed" from="HBoxContainer/VBox/Play" to="." method="_on_play_pressed"]

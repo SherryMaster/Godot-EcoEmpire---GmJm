@@ -1,0 +1,44 @@
+[gd_scene load_steps=4 format=3 uid="uid://dffhpjpe8lvux"]
+
+[ext_resource type="Script" path="res://Scenes/UI Scenes/Progress Bars/house_energy_progress.gd" id="1_cpm2s"]
+[ext_resource type="Texture2D" uid="uid://blokk31q4cnlu" path="res://Assets/UI/ProgressBar Fills/House Energy.svg" id="1_yvxg1"]
+[ext_resource type="Texture2D" uid="uid://dj5pmyflm7h7l" path="res://Assets/UI/ProgressBar Frames/House Energy.svg" id="2_ym7ge"]
+
+[node name="ProgressBar" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1819.0
+offset_bottom = -1057.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_cpm2s")
+
+[node name="Progress" type="TextureProgressBar" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 7.0
+offset_top = 3.0
+offset_right = -1.0
+offset_bottom = -8.0
+grow_horizontal = 2
+grow_vertical = 2
+step = 0.0
+nine_patch_stretch = true
+texture_under = ExtResource("1_yvxg1")
+texture_progress = ExtResource("1_yvxg1")
+tint_under = Color(0.223402, 0.223402, 1.20327e-07, 1)
+tint_progress = Color(0.968627, 0.921569, 0, 1)
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_ym7ge")
+expand_mode = 1
