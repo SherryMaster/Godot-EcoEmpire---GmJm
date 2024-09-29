@@ -23,8 +23,8 @@ func load_game_scene():
 	clear_scene()
 	game_scene = GAME_SCENE.instantiate()
 	game_scene.game_over.connect(on_game_end)
-	add_child(game_scene)
 	GameData.reset()
+	add_child(game_scene)
 	GameData.initialize()
 
 func on_game_end():
